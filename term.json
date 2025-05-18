@@ -997,11 +997,7 @@
   },
   {
     "term": "aircraft classes",
-    "definition": "Các loại máy bay Sự phân loại máy bay dựa trên trọng lượng tổng của nó, nhằm xây dựng các giá trị tối thiểu để đánh giá khả năng chống lại ảnh hưởng của các luồng nhiễu động nhỏ đối với máy bay : hạng nặng Wm > 300.000 cỡ lớn 300.000 > Wm >"
-  },
-  {
-    "term": "12.500",
-    "definition": "Cỡ nhỏ Wm < 12.500 Trong đó Wm : trọng lượng cất cánh tối đa của máy bay tính theo pound."
+    "definition": "Các loại máy bay Sự phân loại máy bay dựa trên trọng lượng tổng của nó, nhằm xây dựng các giá trị tối thiểu để đánh giá khả năng chống lại ảnh hưởng của các luồng nhiễu động nhỏ đối với máy bay : hạng nặng Wm > 300.000 cỡ lớn 300.000 > Wm > 12.500 Cỡ nhỏ Wm < 12.500 Trong đó Wm : trọng lượng cất cánh tối đa của máy bay tính theo pound."
   },
   {
     "term": "aircraft dope dung",
@@ -1281,31 +1277,7 @@
   },
   {
     "term": "airport rotating beacon",
-    "definition": "Đèn dẫn đường (kiểu quay) của sân bay Hệ thống dẫn đường trực giác lắp đặt tại các sân bay có đèn. Màu sắc của các đèn nháy này cho biết sân bay thuộc loại nào. Các màu sắc thường dùng và ý nghĩa của chúng là : màu sắc ý nghĩa"
-  },
-  {
-    "term": "trắng",
-    "definition": "Và xanh lá cây sân bay mặt đất, có đèn"
-  },
-  {
-    "term": "xanh",
-    "definition": "Lá cây sân bay mặt đất, có đèn"
-  },
-  {
-    "term": "trắng",
-    "definition": "Sân bay mặt đất, không có đèn"
-  },
-  {
-    "term": "trắng",
-    "definition": "Và vàng sân bay mặt nước, có đèn vàng sân bay mặt nước, có đèn"
-  },
-  {
-    "term": "xanh",
-    "definition": "Lá cây, vàng và trắng"
-  },
-  {
-    "term": "trắng",
-    "definition": "Và xanh lá cây sân bay trực thăng, có đèn sân bay quân sự"
+    "definition": "Đèn dẫn đường (kiểu quay) của sân bay Hệ thống dẫn đường trực giác lắp đặt tại các sân bay có đèn. Màu sắc của các đèn nháy này cho biết sân bay thuộc loại nào. Các màu sắc thường dùng và ý nghĩa của chúng là : màu sắc ý nghĩa    \n+ Trắng và xanh lá cây sân bay mặt đất, có đèn    \n+ Xanh lá cây sân bay mặt đất, có đèn    \n+ Trắng sân bay mặt đất, không có đèn    \n+ Trắng và vàng sân bay mặt nước, có đèn vàng sân bay mặt nước, có đèn    \n+ Xanh lá cây, vàng và trắng    \n+ Trắng và xanh lá cây sân bay trực thăng, có đèn sân bay quân sự"
   },
   {
     "term": "airport surface detection equipment vt : ASDE",
