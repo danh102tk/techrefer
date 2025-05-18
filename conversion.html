@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Conversion Factors</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="dictionary-container">
+    <a href="index.html" class="back-btn">← Back to Main</a>
+    
+    <div class="category-buttons">
+      <button onclick="showConversionTable('pressure')">Pressure</button>
+      <button onclick="showConversionTable('velocity')">Velocity</button>
+      <button onclick="showConversionTable('volumetric')">Volumetric</button>
+      <button onclick="showConversionTable('angularMeasure')">Angular Measure</button>
+      <button onclick="showConversionTable('angularVelocity')">Angular Velocity</button>
+      <button onclick="showConversionTable('temperature')">Temperature</button>
+    </div>
+    
+    <div id="conversionTableContainer" class="table-container">
+      <!-- Conversion tables will be loaded here -->
+      <p>Select a category to view conversion factors</p>
+    </div>
+  </div>
+  <footer class="footer">
+    Source: “<strong>Aircraft Technical Dictionary English - Vietnamese</strong>” by <strong>Phạm Vinh</strong>.
+  </footer>
+  <script src="conversion.js"></script>
+</body>
+</html>

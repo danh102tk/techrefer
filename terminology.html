@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Terminology Dictionary</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="dictionary-container">
+    <a href="index.html" class="back-btn">← Back to Main</a>
+    
+    <div class="search-section">
+      <input type="text" id="searchBox" placeholder="Search terminology..." oninput="filterTable()">
+    </div>
+    
+    <div class="table-container">
+      <table id="terminologyTable">
+        <thead>
+          <tr>
+            <th>Term</th>
+            <th>Definition</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Data will be loaded by JavaScript -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <footer class="footer">
+    Source: “<strong>Aircraft Technical Dictionary English - Vietnamese</strong>” by <strong>Phạm Vinh</strong>.
+  </footer>
+  <script src="terminology.js"></script>
+
+</body>
+</html>
