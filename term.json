@@ -244,8 +244,8 @@
     "definition": "Các chuỗi bánh răng truyền động Các chuỗi bánh răng gồm cả bánh răng trụ và côn, dùng ở nhiều loại động cơ máy bay khác nhau để dẫn động cho các thiết bị và máy lẻ. Xem thêm accessory section, accessory drive gearbox, accessory section turbine."
   },
   {
-    "term": "accessory section khu",
-    "definition": "Vực gá đặt máy lẻ Khu vực gá đặt máy lẻ trên động cơ. Xem thêm accessories."
+    "term": "accessory section",
+    "definition": "Khu vực gá đặt máy lẻ Khu vực gá đặt máy lẻ trên động cơ. Xem thêm accessories."
   },
   {
     "term": "accident",
@@ -448,8 +448,8 @@
     "definition": "(toán học) cạnh kề Chỉ hai cạnh kề của một góc chung. Trong tam giác vuông từ adjacent side chỉ một trong hai cạnh góc vuông, phân biệt với cạnh huyền là hypotenuse."
   },
   {
-    "term": "adjust thay",
-    "definition": "Đổi, hiệu chỉnh, điều chỉnh Sự thay đổi, điều chỉnh để làm hoạt động tốt lên."
+    "term": "adjust",
+    "definition": "Thay đổi, hiệu chỉnh, điều chỉnh Sự thay đổi, điều chỉnh để làm hoạt động tốt lên."
   },
   {
     "term": "adjustable stabilizer",
@@ -608,52 +608,20 @@
     "definition": "Dùng trên máy bay Aerofiche là tên thương mại đã đăng kí của một dạng microfim dùng trong công nghiệp máy bay; chỉ cần tấm phim kích thước 4''  8'' có thể lưu 288 khối thông tin."
   },
   {
-    "term": "aeronaut phi",
-    "definition": "Công vũ trụ."
+    "term": "aeronaut",
+    "definition": "Phi công vũ trụ."
   },
   {
     "term": "aeronautical beacon",
-    "definition": "Đèn dẫn đường hàng không Đèn nháy dẫn đường (flash) ánh sáng trắng hoặc ánh sáng màu, nhằm báo hiệu định vị cho máy bay về một sân bay, một vùng đất, một vật cản, hay một địa điểm nào đó trên đường bay. Các màu sắc và ý nghĩa thường dùng của chúng ở loại đèn này là: màu sắc ý nghĩa"
-  },
-  {
-    "term": "trắng",
-    "definition": "Và xanh lá cây sân bay mặt đất, có đèn"
-  },
-  {
-    "term": "xanh",
-    "definition": "Lá cây sân bay mặt đất, có đèn"
-  },
-  {
-    "term": "trắng",
-    "definition": "Sân bay mặt đất, không có đèn"
-  },
-  {
-    "term": "trắng",
-    "definition": "Và vàng sân bay mặt nước, có đèn vàng sân bay mặt nước, có đèn"
-  },
-  {
-    "term": "xanh",
-    "definition": "Lá cây, vàng và trắng"
-  },
-  {
-    "term": "trắng",
-    "definition": "Và xanh lá cây sân bay trực thăng, có đèn sân bay quân sự"
-  },
-  {
-    "term": "trắng",
-    "definition": "Và đỏ đánh dấu vùng đất hoặc điểm dẫn đường"
-  },
-  {
-    "term": "Xem",
-    "definition": "Thêm Airport Rotating Beacon."
+    "definition": "Đèn dẫn đường hàng không. Đèn nháy dẫn đường (flash) ánh sáng trắng hoặc ánh sáng màu, nhằm báo hiệu định vị cho máy bay về một sân bay, một vùng đất, một vật cản, hay một địa điểm nào đó trên đường bay.\n\nCác màu sắc và ý nghĩa thường dùng của chúng ở loại đèn này là:\n\n + trắng và xanh lá cây: sân bay mặt đất, có đèn\n+ xanh lá cây: sân bay mặt đất, có đèn\n+ trắng: sân bay mặt đất, không có đèn\n+ trắng và vàng: sân bay mặt nước, có đèn\n+ vàng: sân bay mặt nước, có đèn\n+ xanh lá cây, vàng và trắng\n+ trắng và xanh lá cây: sân bay trực thăng, có đèn\n+ trắng và đỏ: đánh dấu vùng đất hoặc điểm dẫn đường\n\nXem thêm: Airport Rotating Beacon."
   },
   {
     "term": "aeronautical chart",
     "definition": "Bản đồ dẫn đường hàng không Bản đồ dẫn đường trên đó có ghi các đặc điểm địa lý của các vùng địa hình trái đất, các sân bay và các tuyến bay đã đăng ký."
   },
   {
-    "term": "aeronautics khoa",
-    "definition": "Học hàng không vũ trụ Lĩnh vực khoa học nghiên cứu các chuyến bay và hoạt động của mọi loại máy bay. Môn khí động học (aerodynamics) và khí tĩnh học (aerostatics) cũng là hai ngành của môn khoa học này."
+    "term": "aeronautics",
+    "definition": "Khoa học hàng không vũ trụ Lĩnh vực khoa học nghiên cứu các chuyến bay và hoạt động của mọi loại máy bay. Môn khí động học (aerodynamics) và khí tĩnh học (aerostatics) cũng là hai ngành của môn khoa học này."
   },
   {
     "term": "aerosol",
@@ -773,11 +741,7 @@
   },
   {
     "term": "air bus",
-    "definition": "Máy bay chở khách Chỉ loại máy bay chở khách lớn, nhiều động cơ, có tầm bay khoảng 1400 dặm, trọng lượng cất cánh khoảng"
-  },
-  {
-    "term": "275.000 pound,",
-    "definition": "Và có thể chuyên trở 260 hành khách."
+    "definition": "Máy bay chở khách Chỉ loại máy bay chở khách lớn, nhiều động cơ, có tầm bay khoảng 1400 dặm, trọng lượng cất cánh khoảng 275.000 pound, Và có thể chuyên trở 260 hành khách."
   },
   {
     "term": "air capacitor",
@@ -857,11 +821,7 @@
   },
   {
     "term": "air scoop 1.",
-    "definition": "Cửa lấy khí vào cácbuaratơ : của hệ thống lấy khí trong động cơ máy bay kiểu xilanh - pistông. 2. cửa lấy khí động áp"
-  },
-  {
-    "term": ":",
-    "definition": "Có dạng một miệng gầu lấy khí, hướng trực tiếp vào luồng khí và có đặc điểm là lưu lượng lấy khí lớn hơn so với các loại cửa lấy khí khác không hướng trực tiếp vào dòng khí (do có thêm động áp của dòng khí)."
+    "definition": "Cửa lấy khí vào cácbuaratơ : của hệ thống lấy khí trong động cơ máy bay kiểu xilanh - pistông. 2. cửa lấy khí động áp: Có dạng một miệng gầu lấy khí, hướng trực tiếp vào luồng khí và có đặc điểm là lưu lượng lấy khí lớn hơn so với các loại cửa lấy khí khác không hướng trực tiếp vào dòng khí (do có thêm động áp của dòng khí)."
   },
   {
     "term": "air seal",
@@ -1000,8 +960,8 @@
     "definition": "Các loại máy bay Sự phân loại máy bay dựa trên trọng lượng tổng của nó, nhằm xây dựng các giá trị tối thiểu để đánh giá khả năng chống lại ảnh hưởng của các luồng nhiễu động nhỏ đối với máy bay : hạng nặng Wm > 300.000 cỡ lớn 300.000 > Wm > 12.500 Cỡ nhỏ Wm < 12.500 Trong đó Wm : trọng lượng cất cánh tối đa của máy bay tính theo pound."
   },
   {
-    "term": "aircraft dope dung",
-    "definition": "Dịch keo sơn máy bay Dung dịch keo của xenlulô axetat hoặc nitrat kết hợp với một lượng vừa đủ phụ gia làm dẻo."
+    "term": "aircraft dope",
+    "definition": "Dung dịch keo sơn máy bay Dung dịch keo của xenlulô axetat hoặc nitrat kết hợp với một lượng vừa đủ phụ gia làm dẻo."
   },
   {
     "term": "aircraft engine",
@@ -1076,8 +1036,8 @@
     "definition": "Sự hong khô bằng không khí."
   },
   {
-    "term": "airfield phi",
-    "definition": "Trường Khoảng đất nơi máy bay có thể cất cánh, hạ cánh, neo đỗ, và có thể tiến hành các công việc bảo dưỡng các loại."
+    "term": "airfield",
+    "definition": "Phi trường Khoảng đất nơi máy bay có thể cất cánh, hạ cánh, neo đỗ, và có thể tiến hành các công việc bảo dưỡng các loại."
   },
   {
     "term": "airfilter",
@@ -1184,12 +1144,8 @@
     "definition": "Cảng hàng không, sân bay, phi cảng Vùng diện tích trên mặt đất hoặc mặt nước dùng để (hoặc có ý định dùng để) làm chỗ cất hạ cánh cho máy bay."
   },
   {
-    "term": "Airport Advisory Area khu",
-    "definition": "Vực tư vấn chuyến bay của sân bay Vùng diện tích trong vòng bán kính 10 dặm quanh sân bay - nơi không có tháp điều hành (control tower) hoặc tháp không hoạt động"
-  },
-  {
-    "term": "-",
-    "definition": "Có đặt một Trạm dịch vụ chuyến bay (Flight Service Station)."
+    "term": "Airport Advisory Area",
+    "definition": "Khu vực tư vấn chuyến bay của sân bay Vùng diện tích trong vòng bán kính 10 dặm quanh sân bay - nơi không có tháp điều hành (control tower) hoặc tháp không hoạt động  - Có đặt một Trạm dịch vụ chuyến bay (Flight Service Station)."
   },
   {
     "term": "Airport Advisory Service vt : AAS",
@@ -1373,11 +1329,7 @@
   },
   {
     "term": "alignment 1.",
-    "definition": "Sự dóng hàng : sự sắp xếp dóng thẳng theo hàng lối."
-  },
-  {
-    "term": "2.",
-    "definition": "Sự thẳng hàng."
+    "definition": "Sự dóng hàng : sự sắp xếp dóng thẳng theo hàng lối. 2. Sự thẳng hàng."
   },
   {
     "term": "alignment pin",
@@ -1660,8 +1612,8 @@
     "definition": "Công suất ampe-giờ Ampe-giờ là đơn vị đo công suất thiết bị điện (thường chỉ ắc qui điện)."
   },
   {
-    "term": "ampere-hour meter dung",
-    "definition": "Lượng kế ampe giờ Dụng cụ đo điện đo dòng điện chảy qua trong một đơn vị thời gian."
+    "term": "ampere-hour meter",
+    "definition": "Dung lượng kế ampe giờ Dụng cụ đo điện đo dòng điện chảy qua trong một đơn vị thời gian."
   },
   {
     "term": "ampere turn ampe",
@@ -1908,8 +1860,8 @@
     "definition": "Dây ăng ten Đặc điểm của dây ăng ten là được làm từ dây dẫn có điện trở thấp và độ bền kéo cao. Các dây vỏ bọc đồng còn lõi là sợi thép thường được dùng làm dây ăng ten."
   },
   {
-    "term": "antiblush thinner 1. dung",
-    "definition": "Dịch chống nhoè mờ sơn : một loại dung dịch pha loãng, lâu khô, được pha vào sơn để chống nhoè mờ sơn trong điều kiện không khí có độ ẩm lớn. 2. dung dịch chống nhoè sơn : chống hiện tượng nhòe sơn bằng cách làm chậm quá trình bay hơi của dung môi sơn."
+    "term": "antiblush thinner 1.",
+    "definition": "Dung dịch chống nhoè mờ sơn : một loại dung dịch pha loãng, lâu khô, được pha vào sơn để chống nhoè mờ sơn trong điều kiện không khí có độ ẩm lớn. 2. dung dịch chống nhoè sơn : chống hiện tượng nhòe sơn bằng cách làm chậm quá trình bay hơi của dung môi sơn."
   },
   {
     "term": "anticollision light",
@@ -2228,8 +2180,8 @@
     "definition": "Nhà du hành vũ trụ, phi công vũ trụ Người đã từng bay trong khoảng không vũ trụ ngoài khí quyển trái đất."
   },
   {
-    "term": "astronautics khoa",
-    "definition": "Học hàng không vũ trụ Ngành khoa học nghiên cứu về các chuyến bay trong không gian, về các bản thiết kế, chế tạo và vận hành của các tàu vũ trụ cũng như các hoạt động hỗ trợ liên quan."
+    "term": "astronautics",
+    "definition": "Khoa học hàng không vũ trụ Ngành khoa học nghiên cứu về các chuyến bay trong không gian, về các bản thiết kế, chế tạo và vận hành của các tàu vũ trụ cũng như các hoạt động hỗ trợ liên quan."
   },
   {
     "term": "astronomical unit",
@@ -2260,8 +2212,8 @@
     "definition": "Ống khí nhiệt động, ống trực tốc ống khí nhiệt động là một ống hở, tiết diện bên trong ống được thiết kế đặc biệt để có thể tạo ra lực đẩy khi nhiên liệu được đốt cháy bên trong. Khi ống chuyển động trong không khí với vận tốc lớn, không khí ở phía đầu ống sẽ bị nén lại, lúc đó nhiên liệu được trộn với luồng khí nén và đốt cháy. Sự cháy bên trong ống sẽ gây ra dãn nở khí, làm tăng tốc luồng khí và sinh ra lực đẩy. Như vậy thực chất ống khí nhiệt động cũng là một động cơ phản lực dùng khí động áp làm khí nén (ram-jet engine) chứ không dùng máy nén. Từ athodyd là viết tắt của Aero THermO DYnamic Duct."
   },
   {
-    "term": "athwartships theo",
-    "definition": "Hướng vuông góc với trục dọc máy bay, về phía cạnh máy bay, theo hướng ngang thân máy bay."
+    "term": "athwartships",
+    "definition": "Theo Hướng vuông góc với trục dọc máy bay, về phía cạnh máy bay, theo hướng ngang thân máy bay."
   },
   {
     "term": "atmosphere",
@@ -2965,11 +2917,7 @@
   },
   {
     "term": "bead welds",
-    "definition": "Các mối hàn hạt tấm Phần mối hàn bị nóng chảy tạo liên kết giữa các mép kim loại, đồng thời gồ lên trên bề mặt kim loại trông như những hạt nhỏ. Thông thường một kim loại bổ sung được đưa thêm vào mối hàn dưới dạng vật liệu que hàn và do đó làm bề dầy mối hàn dầy hơn trên kim loại nền. Các tính chất của mối hàn là"
-  },
-  {
-    "term": ":",
-    "definition": "Chiều cao, độ đồng nhất, sự nhẵn nhụi, và sự bám dính của mối hàn với kim loại được hàn."
+    "definition": "Các mối hàn hạt tấm Phần mối hàn bị nóng chảy tạo liên kết giữa các mép kim loại, đồng thời gồ lên trên bề mặt kim loại trông như những hạt nhỏ. Thông thường một kim loại bổ sung được đưa thêm vào mối hàn dưới dạng vật liệu que hàn và do đó làm bề dầy mối hàn dầy hơn trên kim loại nền. Các tính chất của mối hàn là: Chiều cao, độ đồng nhất, sự nhẵn nhụi, và sự bám dính của mối hàn với kim loại được hàn."
   },
   {
     "term": "beaded coaxial cable",
@@ -3144,8 +3092,8 @@
     "definition": "Hộp xếp Hộp hoặc ống có thành lượn sóng và dùng để đo áp suất. Có thể tạo chân không trong hộp hoặc bơm vào hộp một áp suất nhất định của khí trơ, sau đó đặt nó trong môi trường cần đo áp suất. Sự thay đổi kích thước của hộp sẽ tương ứng với sự biến thiên của áp suất xung quanh."
   },
   {
-    "term": "belt frame khung",
-    "definition": "Tròn chịu lực thân máy bay Khung tròn chịu lực thân máy bay thường được chế tạo bằng khung thép chữ U hoặc V."
+    "term": "belt frame",
+    "definition": "Khung Tròn chịu lực thân máy bay Khung tròn chịu lực thân máy bay thường được chế tạo bằng khung thép chữ U hoặc V."
   },
   {
     "term": "bench check",
@@ -3648,8 +3596,8 @@
     "definition": "Đinh rivê tán mò, đinh rivê tán rút Loại đinh tán đặc biệt, được thiết kế để tán đinh cho các vị trí mà người thợ chỉ tiếp cận được tấm kim loại ở một mặt, do đó không dùng được thanh gá giữ khuôn đinh tán (bucking bar). Xem hình vẽ."
   },
   {
-    "term": "blind spot khu",
-    "definition": "Vực khuất, vùng khuất Vùng không nhìn thấy."
+    "term": "blind spot",
+    "definition": "Khu vực khuất, vùng khuất Vùng không nhìn thấy."
   },
   {
     "term": "blink Zyglo",
@@ -3916,8 +3864,8 @@
     "definition": "Mũi doa lỗ đầu bằng Mũi doa lỗ không có độ côn, đầu bằng, có thể doa cả đáy phẳng của các lỗ để đạt các kích thước rất chính xác."
   },
   {
-    "term": "bottoming tap dao",
-    "definition": "Tarô đầu bằng Dụng cụ tarô đầu bằng là loại dao tarô không làm độ côn ở đầu mũi, có thể tarô ren tới sát mặt đáy lỗ; nó được đưa vào sử dụng sau khi lỗ đã được khoan mồi. Xem hình vẽ."
+    "term": "bottoming tap",
+    "definition": "Dao Taro đầu bằng Dụng cụ tarô đầu bằng là loại dao tarô không làm độ côn ở đầu mũi, có thể tarô ren tới sát mặt đáy lỗ; nó được đưa vào sử dụng sau khi lỗ đã được khoan mồi. Xem hình vẽ."
   },
   {
     "term": "bounce 1.",
@@ -4116,8 +4064,8 @@
     "definition": "Bộ nắn dòng mắc mạch cầu Mạch nắn dòng dùng bốn điốt mắc thành mạch cầu, dùng để nắn dòng xoay chiều thành một chiều. Xem thêm bridge circuit. Xem hình vẽ."
   },
   {
-    "term": "brine dung",
-    "definition": "Dịch tôi nước muối Dung dịch muối ăn và nước, dùng làm môi chất phục vụ quá trình tôi kim loại. Các bộ phận thép được tôi nhúng trong dung dịch này có độ cứng lớn hơn tôi trong dầu hoặc nước."
+    "term": "brine",
+    "definition": "Dung dịch tôi nước muối Dung dịch muối ăn và nước, dùng làm môi chất phục vụ quá trình tôi kim loại. Các bộ phận thép được tôi nhúng trong dung dịch này có độ cứng lớn hơn tôi trong dầu hoặc nước."
   },
   {
     "term": "Brinell hardness test",
@@ -4400,8 +4348,8 @@
     "definition": "Đường chuẩn đo nằm ngang Đường chuẩn để đo các bề rộng nằm bên trái, phải, và song song với đường tâm thẳng đứng; đường này còn gọi là BL hay butt line."
   },
   {
-    "term": "Butyl cao su",
-    "definition": "Tổng hợp Butyl Tên thương mại của một loại cao su tổng hợp, được điều chế bằng cách polime hoá chất isobutylen... Chất này có thể chịu được các hoá chất mạnh như dầu thuỷ lực Skydrol,..."
+    "term": "Butyl",
+    "definition": "Cao su tổng hợp Butyl Tên thương mại của một loại cao su tổng hợp, được điều chế bằng cách polime hoá chất isobutylen... Chất này có thể chịu được các hoá chất mạnh như dầu thuỷ lực Skydrol,..."
   },
   {
     "term": "butyrate dope",
@@ -4449,11 +4397,7 @@
   },
   {
     "term": "byte byte Byte",
-    "definition": "Là một trong các đơn vị của hệ đếm nhị phân, 1 byte"
-  },
-  {
-    "term": "= 8 bit. Xem",
-    "definition": "Thêm bit."
+    "definition": "Là một trong các đơn vị của hệ đếm nhị phân, 1 byte = 8 bit. Xem Thêm bit."
   },
   {
     "term": "C battery",
@@ -4628,8 +4572,8 @@
     "definition": "Pistông có tiết diện tại đế hình cam Pistông tiết diện đế hình cam là pistông của động cơ máy bay. Tại tiết diện pistông nối với thanh truyền, đường kính theo phương song song với chốt pistông (lắp trên ụ pistông) nhỏ hơn đường kính theo phương vuông góc với chốt. Pistông được chế tạo như vậy là do khi đạt đến nhiệt độ làm việc, do có sự không đồng nhất về khối lượng (vì tồn tại ụ lắp chốt) nên khi bị dãn ra vì nhiệt tiết diện pistông hình cam lại lấy lại dạng tròn hoàn hảo của nó."
   },
   {
-    "term": "camlock fastener chi",
-    "definition": "Tiết ghép nối dạng khóa cam, khóa nắp vỏ dạng cam Một loại chi tiết ghép nối đã đăng kí bằng sáng chế, dùng để khóa đóng mở các cửa dạng nắp vỏ trên bề mặt vỏ máy bay (ví dụ trên vỏ thùng động cơ hoặc thân,...). Kết cấu của khóa gồm một chiếc chốt bằng thép tôi cứng xoay trong một bề mặt ngàm giữ đặc biệt có hình biên dạng cam. Xem hình vẽ."
+    "term": "camlock fastener",
+    "definition": "Chi tiết ghép nối dạng khóa cam, khóa nắp vỏ dạng cam Một loại chi tiết ghép nối đã đăng kí bằng sáng chế, dùng để khóa đóng mở các cửa dạng nắp vỏ trên bề mặt vỏ máy bay (ví dụ trên vỏ thùng động cơ hoặc thân,...). Kết cấu của khóa gồm một chiếc chốt bằng thép tôi cứng xoay trong một bề mặt ngàm giữ đặc biệt có hình biên dạng cam. Xem hình vẽ."
   },
   {
     "term": "cams compensated",
@@ -4720,8 +4664,8 @@
     "definition": "Tải điện mang tính dung kháng Tải điện tạo ra giá trị dung kháng lớn hơn giá trị cảm kháng trong mạch."
   },
   {
-    "term": "capacitive reactance dung",
-    "definition": "Kháng Dung kháng là sự chống lại dòng xoay chiều gây ra bởi điện dung trong mạch, được đo bằng ôm. Dung kháng phụ thuộc giá trị điện dung của mạch và tần số dòng xoay chiều."
+    "term": "capacitive reactance",
+    "definition": "Dung kháng Dung kháng là sự chống lại dòng xoay chiều gây ra bởi điện dung trong mạch, được đo bằng ôm. Dung kháng phụ thuộc giá trị điện dung của mạch và tần số dòng xoay chiều."
   },
   {
     "term": "capacitive time constant hằng",
@@ -4748,8 +4692,8 @@
     "definition": "Hệ thống đánh lửa kiểu tụ điện Hệ thống đánh lửa này là một dạng của hệ thống đánh lửa trong động cơ tuabin khí, bao gồm hai bộ phận đánh lửa độc lập hoạt động từ cùng một nguồn cấp điện một chiều điện áp thấp (ắc quy trên máy bay). Bộ phận kích hoạt đánh lửa sẽ cung cấp một điện áp cao để nạp một tụ điện, và tụ này tạo ra một cung hồ quang ngang qua khe đánh lửa của nến để đánh lửa khởi động động cơ."
   },
   {
-    "term": "capacity 1. dung",
-    "definition": "Tích Khả năng chứa trong một không gian . 2. dung lượng của tụ điện, điện dung tụ điện Lượng electrôn mà một tụ điện có thể trữ nạp được; nó phụ thuộc diện tích bản cực, bề dầy của điện môi, và hằng số điện môi."
+    "term": "capacity 1.",
+    "definition": "Dung tích Khả năng chứa trong một không gian . 2. dung lượng của tụ điện, điện dung tụ điện Lượng electrôn mà một tụ điện có thể trữ nạp được; nó phụ thuộc diện tích bản cực, bề dầy của điện môi, và hằng số điện môi."
   },
   {
     "term": "cape chisel",
@@ -4936,16 +4880,12 @@
     "definition": "Ngọn lửa thấm cácbon Ngọn lửa hàn xì ôxy- axêtylen khi khí axêtylen dư và có tác dụng làm thấm cácbon vào bề mặt thép; có thể nhận ra ngọn lửa này nhờ nón lửa thứ hai có màu trắng hơi xanh nằm ở đỉnh của nón lửa thứ nhất. Ngọn lửa này cũng phát sáng nhẹ và trông giống như ngọn lửa axêtylen cháy tự do trong không khí. Một cách gọi khác là reducing flame. Xem hình vẽ."
   },
   {
-    "term": "carcass of the tire khung",
-    "definition": "Xương của vỏ lốp Xem casing."
+    "term": "carcass of the tire",
+    "definition": "Khung Xương của vỏ lốp Xem casing."
   },
   {
     "term": "cardinal headings",
-    "definition": "Bốn phương trời Chỉ bốn phương trong la bàn"
-  },
-  {
-    "term": ":",
-    "definition": "Đông, tây, nam và bắc."
+    "definition": "Bốn phương trời Chỉ bốn phương trong la bà: Đông, tây, nam và bắc."
   },
   {
     "term": "cardioid microphone",
@@ -5104,8 +5044,8 @@
     "definition": "Vật liệu có tính kiềm Vật liệu có khả năng cháy, bị ăn mòn, hoặc làm ăn mòn các vật liệu khác nhờ phản ứng hóa học."
   },
   {
-    "term": "caustic soda dung",
-    "definition": "Dịch kiềm sôđa Dung dịch kiềm sôđa là tên thông dụng hiđroxit canxi Ca(OH)2 ."
+    "term": "caustic soda",
+    "definition": "Dung dịch kiềm sôđa Dung dịch kiềm sôđa là tên thông dụng hiđroxit canxi Ca(OH)2 ."
   },
   {
     "term": "cavitation",
@@ -5448,16 +5388,12 @@
     "definition": "Hiệu điện thế đặc trưng Hiệu điện thế lí thuyết gây ra bởi một pin hóa học dùng các vật liệu điện cực đặc trưng."
   },
   {
-    "term": "charcoal than",
-    "definition": "Củi Than củi thực chất là một dạng cacbon ở thể xốp và có màu đen."
+    "term": "charcoal",
+    "definition": "Than Củi Than củi thực chất là một dạng cacbon ở thể xốp và có màu đen."
   },
   {
     "term": "charge 1.",
-    "definition": "Điện tích : chỉ lượng tích điện tử trên một đối tượng. Nếu vật liệu có chứa một số lượng điện tử nhiều hơn bình thường thì ta nói nó tích điện âm và ngược lại ta nói nó tích điện dương. 2. sự nạp điện"
-  },
-  {
-    "term": ":",
-    "definition": "Trạng thái vật lí làm cho cường độ điện trường của một đối tượng tăng lên."
+    "definition": "Điện tích : chỉ lượng tích điện tử trên một đối tượng. Nếu vật liệu có chứa một số lượng điện tử nhiều hơn bình thường thì ta nói nó tích điện âm và ngược lại ta nói nó tích điện dương. 2. sự nạp điện: Trạng thái vật lí làm cho cường độ điện trường của một đối tượng tăng lên."
   },
   {
     "term": "charging a battery",
@@ -5664,8 +5600,8 @@
     "definition": "Chiều dài dây cung cánh Chiều dài dây cung cánh được tính bằng tỉ số giữa diện tích cánh và chiều dài sải cánh."
   },
   {
-    "term": "chordwise theo",
-    "definition": "Hướng dây cung Theo hướng từ mép trước cánh đến mép sau cánh."
+    "term": "chordwise",
+    "definition": "Theo Hướng dây cung Theo hướng từ mép trước cánh đến mép sau cánh."
   },
   {
     "term": "chordwise balance",
@@ -5712,8 +5648,8 @@
     "definition": "Crômic Axit crômic cũng tương tự axit sunfuric, chỉ khác ở đây crôm thay cho lưu huỳnh. Axit này được dùng như dung dịch khắc mòn để chuẩn bị bề mặt cho các hợp kim nhôm trước khi sơn hoàn thiện; đồng thời nó còn có tác dụng ngăn cản sự ăn mòn."
   },
   {
-    "term": "chromic acid etch dung",
-    "definition": "Dịch khắc mòn của axit crômic Dung dịch khắc mòn của axit crômic có thành phần gồm đicrômat natri, axit nitric và nước. Xem thêm chromic acid."
+    "term": "chromic acid etch",
+    "definition": "Dung dịch khắc mòn của axit crômic Dung dịch khắc mòn của axit crômic có thành phần gồm đicrômat natri, axit nitric và nước. Xem thêm chromic acid."
   },
   {
     "term": "chromium",
@@ -5821,11 +5757,7 @@
   },
   {
     "term": "clamp-on ammeter",
-    "definition": "Ămpe kế kìm Ămpe kế xách tay có thể kẹp nối vào đường dây điện để đo dòng điện. Nguyên lí của cách đo này là"
-  },
-  {
-    "term": ":",
-    "definition": "Sự biến thiên của từ trường dây dẫn sẽ tạo ra một điện áp ở các mỏ kẹp của ampe kế và tỉ lệ với cường độ dòng điện chạy trong dây dẫn."
+    "definition": "Ămpe kế kìm Ămpe kế xách tay có thể kẹp nối vào đường dây điện để đo dòng điện. Nguyên lí của cách đo này là: Sự biến thiên của từ trường dây dẫn sẽ tạo ra một điện áp ở các mỏ kẹp của ampe kế và tỉ lệ với cường độ dòng điện chạy trong dây dẫn."
   },
   {
     "term": "clamshell doors",
@@ -5872,8 +5804,8 @@
     "definition": "Động cơ được làm sạch dầu đọng Động cơ đã được làm sạch khỏi nhiên liệu chưa cháy hết trong các ống đốt bằng cách quay nguội động cơ. Luồng khí từ máy nén sẽ thổi bay nhiên liệu và hơi nhiên liệu đọng (rất nguy hiểm) trong buồng đốt."
   },
   {
-    "term": "Cleco fasftener chi",
-    "definition": "Tiết ghép nối Cleco Chi tiết ghép nối Cleco là chi tiết ghép nối kiểu lò xo, dùng để giữ kẹp các tấm kim loại với nhau trong quá trình khoan hay tán đinh."
+    "term": "Cleco fasftener",
+    "definition": "Chi tiết ghép nối Cleco Chi tiết ghép nối Cleco là chi tiết ghép nối kiểu lò xo, dùng để giữ kẹp các tấm kim loại với nhau trong quá trình khoan hay tán đinh."
   },
   {
     "term": "clevis",
@@ -6012,8 +5944,8 @@
     "definition": "Sự dập lõm Quá trình dập lõm sử dụng một đinh tán đầu chìm (countersunk rivet) như một khuôn dập đực nhằm tạo vết lõm trên một bề mặt để tán các đinh tán đầu chìm."
   },
   {
-    "term": "coke than",
-    "definition": "Cốc Than cốc là phần dư thừa lại (có dạng đặc, giống như cácbon) của dầu khoáng sau khi thành phần dễ bay hơi của nó đã bay hơi hết vì nhiệt."
+    "term": "coke",
+    "definition": "Than Cốc Than cốc là phần dư thừa lại (có dạng đặc, giống như cácbon) của dầu khoáng sau khi thành phần dễ bay hơi của nó đã bay hơi hết vì nhiệt."
   },
   {
     "term": "coking",
@@ -6121,11 +6053,7 @@
   },
   {
     "term": "combustion section",
-    "definition": "Khoang buồng đốt, khu vực buồng đốt Phần trên động cơ máy bay, nằm giữa phần máy nén và tuabin; nó bao gồm"
-  },
-  {
-    "term": ":",
-    "definition": "Vỏ buồng đốt, ống đốt có khe rãnh khía dẫn khí làm mát, hệ thống phun nhiên liệu, hệ thống đánh lửa và hệ thống xả thoát nhiên liệu chưa cháy hết khi tắt máy động cơ. Khoang buồng đốt có nhiệm vụ đốt cháy hỗn hợp khí/nhiên liệu để giải phóng năng lượng dưới dạng luồng khí xả của hỗn hợp cháy. Xem thêm combustor2."
+    "definition": "Khoang buồng đốt, khu vực buồng đốt Phần trên động cơ máy bay, nằm giữa phần máy nén và tuabin; nó bao gồm: Vỏ buồng đốt, ống đốt có khe rãnh khía dẫn khí làm mát, hệ thống phun nhiên liệu, hệ thống đánh lửa và hệ thống xả thoát nhiên liệu chưa cháy hết khi tắt máy động cơ. Khoang buồng đốt có nhiệm vụ đốt cháy hỗn hợp khí/nhiên liệu để giải phóng năng lượng dưới dạng luồng khí xả của hỗn hợp cháy. Xem thêm combustor2."
   },
   {
     "term": "combustor1",
@@ -6148,8 +6076,8 @@
     "definition": "Tốc độ đủ để đánh lửa Chỉ tốc độ của manhetô vừa đủ để tạo ra điện áp cần thiết nhằm đánh lửa nhất loạt các nến đánh lửa."
   },
   {
-    "term": "commercial fastener chi",
-    "definition": "Tiết ghép nối theo tiêu chuẩn thương mại Chi tiết ghép nối được chế tạo theo các tiêu chuẩn (về vật liệu, kích thước và mức độ gia công hoàn thiện) đã được ban hành, và do đó được các nhà sản xuất và người sử dụng công nhận rộng rãi về chất lượng thương mại của chúng."
+    "term": "commercial fastener",
+    "definition": "Chi tiết ghép nối theo tiêu chuẩn thương mại Chi tiết ghép nối được chế tạo theo các tiêu chuẩn (về vật liệu, kích thước và mức độ gia công hoàn thiện) đã được ban hành, và do đó được các nhà sản xuất và người sử dụng công nhận rộng rãi về chất lượng thương mại của chúng."
   },
   {
     "term": "commercial operator",
@@ -6184,8 +6112,8 @@
     "definition": "Hướng bắc la bàn Hướng chỉ của kim la bàn là kết quả của sự tương tác giữa từ trường trái đất và các từ trường cục bộ trong máy bay. 2. hướng bắc từ Là hướng bắc la bàn đã được hiệu chỉnh sai số gây ra bởi các từ trường cục bộ bên trong máy bay."
   },
   {
-    "term": "compass rose khu",
-    "definition": "Vực điều la bàn Một diện tích tròn được đánh dấu trên một khu vực bằng phẳng thuộc phạm vi sân bay và không bị nhiễu từ. Trên đường tròn đó người ta đánh dấu mười hai cung hướng từ, mỗi cung là 30o. Máy bay sẽ được dắt chạy trên chu vi của vùng này và la bàn từ trên máy bay sẽ được điều chỉnh để phù hợp với hướng của các điểm đánh dấu."
+    "term": "compass rose",
+    "definition": "Khu vực điều la bàn Một diện tích tròn được đánh dấu trên một khu vực bằng phẳng thuộc phạm vi sân bay và không bị nhiễu từ. Trên đường tròn đó người ta đánh dấu mười hai cung hướng từ, mỗi cung là 30o. Máy bay sẽ được dắt chạy trên chu vi của vùng này và la bàn từ trên máy bay sẽ được điều chỉnh để phù hợp với hướng của các điểm đánh dấu."
   },
   {
     "term": "compass swinging",
@@ -6200,8 +6128,8 @@
     "definition": "Van xả áp lực khi dầu nhờn nóng lên Đây là sự kết hợp giữa van xả áp lực dầu nhờn và một van nhiệt tĩnh nhằm giảm áp lực bơm dầu nhờn khi dầu nóng lên : bình thường một áp lực cao sẽ được dùng để lưu thông dầu nhờn lạnh trong động cơ, nhưng áp lực này sẽ tự động được giảm đi khi nhiệt độ dầu tăng lên."
   },
   {
-    "term": "compensating cam cam",
-    "definition": "Bù công suất Cam bù công suất được dùng phối hợp với cơ cấu điều khiển tập trung bước lá cánh quạt máy bay trực thăng; nó có tác dụng bù trừ công suất cho động cơ khi bước lá cánh quạt thay đổi."
+    "term": "compensating cam",
+    "definition": "Cam bù công suất Cam bù công suất được dùng phối hợp với cơ cấu điều khiển tập trung bước lá cánh quạt máy bay trực thăng; nó có tác dụng bù trừ công suất cho động cơ khi bước lá cánh quạt thay đổi."
   },
   {
     "term": "compensating port",
@@ -6260,8 +6188,8 @@
     "definition": "Sự ép, sự nén Sự nén là kết quả của hai lực nằm trên cùng một đường, hướng ngược chiều nhau và tác dụng vào cùng một vật."
   },
   {
-    "term": "compression fastener chi",
-    "definition": "Tiết ghép nối chịu nén Chức năng cơ bản của chi tiết này là chống lại các lực có xu hướng nén nó."
+    "term": "compression fastener",
+    "definition": "Chi tiết ghép nối chịu nén Chức năng cơ bản của chi tiết này là chống lại các lực có xu hướng nén nó."
   },
   {
     "term": "compression member / strut",
@@ -6345,11 +6273,7 @@
   },
   {
     "term": "compressor surge 1.",
-    "definition": "Sự lốc khí của máy nén Sự hóc khí dữ dội xảy ra trên toàn bộ các tầng máy nén, có thể gây ra hỏng hóc nghiêm trọng nếu không kịp thời điều chỉnh. Nguyên nhân là sự dừng đột ngột hoặc sự đảo chiều của luồng chảy. 2. vùng lốc khí Vùng làm việc xảy ra sự dao động dữ dội (trên đồ thị đặc tính máy nén) của dòng khí"
-  },
-  {
-    "term": "-",
-    "definition": "Thường nằm ngoài các khoảng giới hạn hoạt động của động cơ - và do các tác động điều khiển dòng chảy. Nguyên nhân chính tạo ra vùng này là do sự lốc khí, và kết quả là có thể gây ra hiện tượng lưỡi lửa ở đuôi động cơ (flameout) và trong một số trường hợp nghiêm trọng có thể gây ra phá hỏng kết cấu."
+    "definition": "Sự lốc khí của máy nén Sự hóc khí dữ dội xảy ra trên toàn bộ các tầng máy nén, có thể gây ra hỏng hóc nghiêm trọng nếu không kịp thời điều chỉnh. Nguyên nhân là sự dừng đột ngột hoặc sự đảo chiều của luồng chảy. 2. vùng lốc khí Vùng làm việc xảy ra sự dao động dữ dội (trên đồ thị đặc tính máy nén) của dòng khí  - Thường nằm ngoài các khoảng giới hạn hoạt động của động cơ - và do các tác động điều khiển dòng chảy. Nguyên nhân chính tạo ra vùng này là do sự lốc khí, và kết quả là có thể gây ra hiện tượng lưỡi lửa ở đuôi động cơ (flameout) và trong một số trường hợp nghiêm trọng có thể gây ra phá hỏng kết cấu."
   },
   {
     "term": "concentration cell corrosion",
@@ -6673,11 +6597,7 @@
   },
   {
     "term": "Coriolis acceleration",
-    "definition": "Gia tốc Coriolit Gia tốc xuất hiện trong các hệ qui chiếu quay, do ảnh hưởng của sự quay của hệ qui chiếu đến chuyển động tương đối của chất điểm. Xét hai hệ qui chiếu O1 và O2, trong đó O2 quay so với O1 với vận tốc góc . Khi đó gia tốc Coriolit xác định bằng biểu thức véc tơ:"
-  },
-  {
-    "term": "c = 2 [   v ] Trong",
-    "definition": "Đó : v là vận tốc đối với hệ O2.. Tích của khối lượng vật với gia tốc c gọi là lực Coriolit. Đó là một lực quán tính, là nguyên nhân của hiện tượng rơi lệch về phương đông trên trái đất của các vật thể."
+    "definition": "Gia tốc Coriolit Gia tốc xuất hiện trong các hệ qui chiếu quay, do ảnh hưởng của sự quay của hệ qui chiếu đến chuyển động tương đối của chất điểm. Xét hai hệ qui chiếu O1 và O2, trong đó O2 quay so với O1 với vận tốc góc . Khi đó gia tốc Coriolit xác định bằng biểu thức véc tơ: c = 2 [   v ] Trong Đó : v là vận tốc đối với hệ O2.. Tích của khối lượng vật với gia tốc c gọi là lực Coriolit. Đó là một lực quán tính, là nguyên nhân của hiện tượng rơi lệch về phương đông trên trái đất của các vật thể."
   },
   {
     "term": "corrolation box",
@@ -6704,8 +6624,8 @@
     "definition": "Các panel vỏ công tác Những vị trí trên vỏ máy bay hoặc động cơ có thể tháo lắp để tiếp cận thường xuyên các khoang bên trong nhằm phục vụ công tác kiểm tra bảo dưỡng."
   },
   {
-    "term": "cowl support ring khung",
-    "definition": "Vòng đỡ vỏ động cơ Chỉ các khung tròn lớn gắn với hệ giá treo động cơ nhằm tạo ra một chỗ bám chắc cho các panel vỏ động cơ được treo vào."
+    "term": "cowl support ring",
+    "definition": "Khung Vòng đỡ vỏ động cơ Chỉ các khung tròn lớn gắn với hệ giá treo động cơ nhằm tạo ra một chỗ bám chắc cho các panel vỏ động cơ được treo vào."
   },
   {
     "term": "cowling",
@@ -6776,8 +6696,8 @@
     "definition": "Sự biến điệu đan xen Sự biến điệu của một tín hiệu do sự thâm nhập của một tín hiệu khác không mong muốn; kết quả là tạo ra hai tín hiệu ở đầu ra."
   },
   {
-    "term": "cross section mặt cắt ngang, Mặt cắt ngang",
-    "definition": "Là mặt cắt vuông góc với trục của vật thể."
+    "term": "cross section",
+    "definition": "Mặt cắt ngang, Mặt cắt ngang là mặt cắt vuông góc với trục của vật thể."
   },
   {
     "term": "cross sectional area",
@@ -6804,8 +6724,8 @@
     "definition": "Công suất động cơ khi bay đường trường Công suất động cơ khi bay đường trường bằng khoảng 60-70% công suất hoạt động cực đại. Công suất này dùng cho chế độ tiết kiệm nhiên liệu và cũng để bảo vệ động cơ khi bay đường trường."
   },
   {
-    "term": "crystal tinh",
-    "definition": "Thể. 1. tinh thể trong vật liệu áp điện Một miếng tinh thể mỏng có tần số cộng hưởng xác định, được dùng để điều khiển tần số của một máy dao động. 2. tinh thể galen hoặc sunfua chì Tinh thể này chỉ cho dòng điện tử chảy theo một hướng."
+    "term": "crystal",
+    "definition": "Tinh thể. 1. tinh thể trong vật liệu áp điện Một miếng tinh thể mỏng có tần số cộng hưởng xác định, được dùng để điều khiển tần số của một máy dao động. 2. tinh thể galen hoặc sunfua chì Tinh thể này chỉ cho dòng điện tử chảy theo một hướng."
   },
   {
     "term": "crystal lattice",
@@ -6924,8 +6844,8 @@
     "definition": "Các rãnh tản nhiệt trên thân xilanh."
   },
   {
-    "term": "cylinder flange mặt",
-    "definition": "Bích đế xilanh Mặt bích phình ra ở đế xilanh, được dùng làm mặt tì để lắp đặt xilanh."
+    "term": "cylinder flange",
+    "definition": "Mặt Bích đế xilanh Mặt bích phình ra ở đế xilanh, được dùng làm mặt tì để lắp đặt xilanh."
   },
   {
     "term": "cylinder head",
@@ -6972,8 +6892,8 @@
     "definition": "Ống dập xung áp lực ống dập xung áp lực là một ống ngắn có đường kính trong rất nhỏ, được đặt trong đồng hồ đo áp lực của đường ống cao áp. Tác dụng của nó là ngăn ngừa các xung áp lực gây ra bởi sự nổ ngược của đường ống và có thể gây phá hỏng cơ cấu cơ khí trong thiết bị đo. Xem thêm backfire."
   },
   {
-    "term": "danger area khu",
-    "definition": "Vực nguy hiểm Khu vực được coi là tiềm tàng các tình huống nguy hiểm đối với con người."
+    "term": "danger area",
+    "definition": "Khu vực nguy hiểm Khu vực được coi là tiềm tàng các tình huống nguy hiểm đối với con người."
   },
   {
     "term": "d'Arsonval meter movement",
@@ -7028,8 +6948,8 @@
     "definition": "Khoang xả khí Khoang xả khí nằm trong thùng dầu của hệ thống thủy lực, ở đó tiến hành xả khí."
   },
   {
-    "term": "de-aerator tray khay",
-    "definition": "Xả khí Khay xả khí là khay thu dầu về từ hệ thống, đồng thời cho phép các bong bóng khí được tách khỏi dầu trước khi quay lại hệ thống."
+    "term": "de-aerator tray",
+    "definition": "Khay xả khí Khay xả khí là khay thu dầu về từ hệ thống, đồng thời cho phép các bong bóng khí được tách khỏi dầu trước khi quay lại hệ thống."
   },
   {
     "term": "debarkation",
@@ -7048,8 +6968,8 @@
     "definition": "Độ lệch góc đặt cánh Độ lệch góc đặt cánh giữa tầng cánh trên và tầng cánh dưới của máy bay hai tầng cách. Góc lệch này sẽ dương nếu góc đặt cánh của tầng cánh trên lớn hơn góc tương ứng của tầng cánh dưới."
   },
   {
-    "term": "decarbonizer dung",
-    "definition": "Môi khử cácbon Chỉ các dung môi làm khử sự bám dính của cácbon trên bề mặt các chi tiết kim loại."
+    "term": "decarbonizer",
+    "definition": "Dung môi khử cácbon Chỉ các dung môi làm khử sự bám dính của cácbon trên bề mặt các chi tiết kim loại."
   },
   {
     "term": "deceleration",
@@ -7516,8 +7436,8 @@
     "definition": "Số chia, mẫu số."
   },
   {
-    "term": "dock khu",
-    "definition": "Vực sửa chữa máy bay Một diện tích làm việc khép kín nơi máy bay có thể đưa vào để sửa chữa."
+    "term": "dock",
+    "definition": "Khu vực sửa chữa máy bay Một diện tích làm việc khép kín nơi máy bay có thể đưa vào để sửa chữa."
   },
   {
     "term": "docking",
@@ -7576,8 +7496,8 @@
     "definition": "Phía sống lưng, phía sống bụng (về phía) Sống lưng hoặc sống bụng của vật thể. Thường chỉ phía trên lưng hoặc dưới bụng máy bay."
   },
   {
-    "term": "dorsal fin dao",
-    "definition": "Chỉnh dòng trên sống lưng Một bề mặt (tấm chắn) khí động thẳng đứng trên sống lưng của thân máy bay và kéo dài tới gần đuôi đứng. Tác dụng của nó là làm tăng độ ổn định hướng của máy bay."
+    "term": "dorsal fin",
+    "definition": "Dao chỉnh dòng trên sống lưng Một bề mặt (tấm chắn) khí động thẳng đứng trên sống lưng của thân máy bay và kéo dài tới gần đuôi đứng. Tác dụng của nó là làm tăng độ ổn định hướng của máy bay."
   },
   {
     "term": "double flare",
@@ -7984,8 +7904,8 @@
     "definition": "Lệch tâm Xem hình vẽ. Từ ngược nghĩa là concentric."
   },
   {
-    "term": "eccentric cam cam",
-    "definition": "Lệch tâm Cam lệch tâm là một cơ cấu cam biên dạng tròn có tâm lệch so với tâm trục dẫn động cam. Có thể ứng dụng cam này để biến một chuyển động quay thành một chuyển động thẳng,..."
+    "term": "eccentric cam",
+    "definition": "Cam Lệch tâm Cam lệch tâm là một cơ cấu cam biên dạng tròn có tâm lệch so với tâm trục dẫn động cam. Có thể ứng dụng cam này để biến một chuyển động quay thành một chuyển động thẳng,..."
   },
   {
     "term": "economizer system",
@@ -8552,8 +8472,8 @@
     "definition": "Sổ tay kĩ thuật động cơ, sổ ghi lý lịch động cơ Sổ lý lịch động cơ ghi lại thời gian hoạt động, quá trình bảo dưỡng, kiểm tra,..., đã tiến hành trên một động cơ máy bay cụ thể."
   },
   {
-    "term": "engine mount khung",
-    "definition": "Giá đỡ động cơ, giá treo động cơ Kết cấu dùng để gắn động cơ vào khung kết cấu máy bay. Thông thường nó có bao gồm cả các đế giảm chấn (shock mount)."
+    "term": "engine mount",
+    "definition": "Khung Giá đỡ động cơ, giá treo động cơ Kết cấu dùng để gắn động cơ vào khung kết cấu máy bay. Thông thường nó có bao gồm cả các đế giảm chấn (shock mount)."
   },
   {
     "term": "engine mounting pads",
@@ -9028,8 +8948,8 @@
     "definition": "Gió rơi Khí lạnh khi chìm xuống (giảm độ cao) trong khí quyển tạo thành luồng gió. Gió rơi khác với gió phơn (foehn) ở chỗ : ban đầu khi “chìm” xuống nó vẫn còn đủ lạnh để giữ được tương đối lạnh cho dù có sự nung nóng do sự nén (tăng áp suất) trong quá trình thổi xuống. Xem thêm feohn."
   },
   {
-    "term": "false rib khung",
-    "definition": "Sườn mép trước cánh Khung sườn mép trước cánh là một dạng bán kết cấu ngắn, kéo dài từ mép trước cánh đến phía trước dầm trước của cánh; nó có tác dụng tăng độ cứng vững và tạo hình dạng khí động tốt hơn cho mép trước của các cánh có phủ vải bọc kết cấu."
+    "term": "false rib",
+    "definition": "Khung Sườn mép trước cánh Khung sườn mép trước cánh là một dạng bán kết cấu ngắn, kéo dài từ mép trước cánh đến phía trước dầm trước của cánh; nó có tác dụng tăng độ cứng vững và tạo hình dạng khí động tốt hơn cho mép trước của các cánh có phủ vải bọc kết cấu."
   },
   {
     "term": "false spar",
@@ -9056,8 +8976,8 @@
     "definition": "Là đơn vị điện dung. Tụ điện có điện dung 1 fara có khả năng chứa 1 culông điện tích (6,28x1018 điện tử) khi có điện áp 1 vôn đặt vào nó."
   },
   {
-    "term": "fastener chi",
-    "definition": "Tiết ghép nối Chi tiết dùng để ghép nối các bộ phận với nhau. Ví dụ bulông, đinh tán, ..."
+    "term": "fastener",
+    "definition": "Chi tiết ghép nối Chi tiết dùng để ghép nối các bộ phận với nhau. Ví dụ bulông, đinh tán, ..."
   },
   {
     "term": "fatigue",
@@ -9220,8 +9140,8 @@
     "definition": "Sự kích từ Kích từ là trạng thái đưa dòng một chiều vào từ trường của máy phát xoay chiều hoặc một chiều để tạo ra các đường sức từ, và đường sức này sẽ bị cắt ngang bởi các dây dẫn của phần ứng hoặc stato, xem thêm exitation."
   },
   {
-    "term": "field frame khung",
-    "definition": "Từ Khung từ là khung kết cấu chính của máy phát một chiều hoặc của môtơ, và trong đó các cực từ và cuộn dây từ trường được đặt vào."
+    "term": "field frame",
+    "definition": "Khung Từ Khung từ là khung kết cấu chính của máy phát một chiều hoặc của môtơ, và trong đó các cực từ và cuộn dây từ trường được đặt vào."
   },
   {
     "term": "field maintenance",
@@ -9376,8 +9296,8 @@
     "definition": "Van phòng hỏa Van phòng hỏa là van tự động đóng nguồn cung cấp khí nóng cho thiết bị sưởi ấm buồng kín trong trường hợp xảy ra cháy hoặc quá nhiệt. Ngoài ra nó còn dùng trong một số hệ thống khác với nguyên lí hoạt động tương tự để cắt nguồn cấp năng lượng cháy và ngăn chặn sự cháy lan."
   },
   {
-    "term": "fire zone khu",
-    "definition": "Vực dễ xảy ra cháy Khu vực trên máy bay dễ xảy ra cháy. Đây là những vùng mà nhà sản xuất lắp đặt các hệ thống báo cháy/dập cháy và yêu cầu mọi người phải luôn ở trạng thái phòng cháy ở mức độ cao."
+    "term": "fire zone",
+    "definition": "Khu vực dễ xảy ra cháy Khu vực trên máy bay dễ xảy ra cháy. Đây là những vùng mà nhà sản xuất lắp đặt các hệ thống báo cháy/dập cháy và yêu cầu mọi người phải luôn ở trạng thái phòng cháy ở mức độ cao."
   },
   {
     "term": "fireproof",
@@ -9436,12 +9356,12 @@
     "definition": "Bộ phận nối ghép, cơ cấu nối ghép Bộ phận dùng để nối ghép các chi tiết,..., với nhau."
   },
   {
-    "term": "five-hour rating dung",
-    "definition": "Lượng định mức 5 giờ Dung lượng định mức 5 giờ là dung lượng ampe-giờ của ắc qui, khi đó ắc qui sẽ phóng hết điện trong vòng 5 giờ. Đây là trị số thông dụng của ắc qui trên máy bay."
+    "term": "five-hour rating",
+    "definition": "Dung lượng định mức 5 giờ Dung lượng định mức 5 giờ là dung lượng ampe-giờ của ắc qui, khi đó ắc qui sẽ phóng hết điện trong vòng 5 giờ. Đây là trị số thông dụng của ắc qui trên máy bay."
   },
   {
-    "term": "five-minute rating dung",
-    "definition": "Lượng định mức 5 phút Dung lượng định mức 5 phút là trị số danh định của dung lượng ắc qui tính theo ampe-giờ, thường dùng để chỉ dung lượng của một ắc qui có dòng phóng lớn (ví dụ dòng điện khởi động). Trị số này thể hiện khả năng làm việc của ắc qui ở chế độ tải siêu lớn khi khởi động động cơ."
+    "term": "five-minute rating",
+    "definition": "Dung lượng định mức 5 phút Dung lượng định mức 5 phút là trị số danh định của dung lượng ắc qui tính theo ampe-giờ, thường dùng để chỉ dung lượng của một ắc qui có dòng phóng lớn (ví dụ dòng điện khởi động). Trị số này thể hiện khả năng làm việc của ắc qui ở chế độ tải siêu lớn khi khởi động động cơ."
   },
   {
     "term": "fix",
@@ -9488,8 +9408,8 @@
     "definition": "Chất lỏng dễ bắt lửa Là loại chất lỏng dễ bay hơi, tạo ra các lớp hơi dễ bắt lửa bay trên bề mặt. Khi lớp hơi này bay vào vùng có nhiệt độ cao hoặc có lửa, nó sẽ bắt cháy và lan rộng."
   },
   {
-    "term": "flange mặt",
-    "definition": "Bích lắp ghép Mặt bích lắp ghép là phần kết cấu lồi ra từ một thiết bị, có tác dụng tạo bề mặt để lắp ghép hoặc bắt bu lông với các thiết bị khác..."
+    "term": "flange",
+    "definition": "Mặt Bích lắp ghép Mặt bích lắp ghép là phần kết cấu lồi ra từ một thiết bị, có tác dụng tạo bề mặt để lắp ghép hoặc bắt bu lông với các thiết bị khác..."
   },
   {
     "term": "flaperon",
@@ -9828,8 +9748,8 @@
     "definition": "Van đường sức từ Van đường sức từ là một máy biến áp đặc biệt tạo ra một tín hiệu mà các tính chất của nó được quyết định bởi vị trí của thiết bị trong tương quan với từ trường trái đất. Van này là một phần của hệ thống la bàn cảm ứng từ trường trái đất. Xem thêm earth's magnetic field."
   },
   {
-    "term": "flux valve spider khung",
-    "definition": "Lõi của van đường sức từ Khung trên đó có cuốn ba cuộn cảm của van đường sức từ. Khung này có độ từ thẩm cao (là do vật liệu làm khung,...) cho phép hấp thụ các đường sức từ của trái đất. Xem thêm flux valve."
+    "term": "flux valve spider",
+    "definition": "Khung Lõi của van đường sức từ Khung trên đó có cuốn ba cuộn cảm của van đường sức từ. Khung này có độ từ thẩm cao (là do vật liệu làm khung,...) cho phép hấp thụ các đường sức từ của trái đất. Xem thêm flux valve."
   },
   {
     "term": "fly bay,",
@@ -9856,8 +9776,8 @@
     "definition": "Hiệu ứng khung dao động Hiệu ứng khung dao động là đặc tính của mạch LC mắc song song, cho phép một dòng điện chạy qua lại liên tục trong mạch dù chỉ cần đưa vào mạch một xung năng lượng nhỏ."
   },
   {
-    "term": "foam rubber cao su",
-    "definition": "Xốp, cao su bọt Cao su xốp là dạng cao su chứa hàng triệu bóng khí nhỏ. Nó được đánh thành mủ nhựa (latec) trước khi lưu hóa."
+    "term": "foam rubber",
+    "definition": "Cao su xốp, cao su bọt Cao su xốp là dạng cao su chứa hàng triệu bóng khí nhỏ. Nó được đánh thành mủ nhựa (latec) trước khi lưu hóa."
   },
   {
     "term": "foamed plastic",
@@ -10604,8 +10524,8 @@
     "definition": "Cửa thông hơi kiểu mang cá trên vỏ động cơ Cửa thông hơi kiểu mang cá trên vỏ động cơ là một cửa nằm ở mép đuôi của vỏ động cơ. Nhiệm vụ của nó là đóng khép để điều chỉnh luồng khí qua làm mát động cơ."
   },
   {
-    "term": "gimbal khung con quay gyro Khung",
-    "definition": "Của con quay gyro giống một khớp các-đăng mà con quay quay bên trong. Nó được thiết kế sao cho con quay duy trì được trạng thái đứng khi phần đế vẫn quay. Với con quay tốc độ (rate gyro) thì chỉ dùng một khung, nhưng với con quay chỉ thế bay (attitude gyro) thì dùng hai khung."
+    "term": "gimbal khung con quay gyro",
+    "definition": "Khung Của con quay gyro giống một khớp các-đăng mà con quay quay bên trong. Nó được thiết kế sao cho con quay duy trì được trạng thái đứng khi phần đế vẫn quay. Với con quay tốc độ (rate gyro) thì chỉ dùng một khung, nhưng với con quay chỉ thế bay (attitude gyro) thì dùng hai khung."
   },
   {
     "term": "gimlet point",
@@ -10845,15 +10765,11 @@
   },
   {
     "term": "ground loop 1.",
-    "definition": "Sự xoay vòng trên mặt đất : là sự đột ngột đổi hướng 180o hướng chuyển động của máy bay trên mặt đất của loại máy bay có một bánh đặt ở đuôi. Khi thực hiện thao tác này trọng tâm máy bay quay vòng 180o xung quanh bánh đuôi. 2. dòng điện vỏ"
+    "definition": "Sự xoay vòng trên mặt đất : là sự đột ngột đổi hướng 180o hướng chuyển động của máy bay trên mặt đất của loại máy bay có một bánh đặt ở đuôi. Khi thực hiện thao tác này trọng tâm máy bay quay vòng 180o xung quanh bánh đuôi. 2. dòng điện vỏ: Là dòng điện không mong muốn xuất hiện trong vỏ bọc của dây dẫn điện có vỏ bọc."
   },
   {
-    "term": ":",
-    "definition": "Là dòng điện không mong muốn xuất hiện trong vỏ bọc của dây dẫn điện có vỏ bọc."
-  },
-  {
-    "term": "ground plane mặt",
-    "definition": "Phản xạ của ăngten Chỉ mặt phản xạ của ăngten vô tuyến 1/4 bước sóng; nó đóng vai trò như một phần tử một phần tư bước sóng bổ sung cho ăng ten chính."
+    "term": "ground plane",
+    "definition": "Mặt phản xạ của ăngten Chỉ mặt phản xạ của ăngten vô tuyến 1/4 bước sóng; nó đóng vai trò như một phần tử một phần tư bước sóng bổ sung cho ăng ten chính."
   },
   {
     "term": "gound potential",
@@ -11208,8 +11124,8 @@
     "definition": "Vít Thanh bắt vít là một chi tiết ghép nối giống chiếc đinh vít nhưng có thân dài hơn nhiều. Thanh này có một đầu bẹt hoặc tròn giống đầu bulông, còn đầu kia của thân được tiện một đoạn ren để có thể bắt đai ốc."
   },
   {
-    "term": "headless fastener chi",
-    "definition": "Tiết ghép nối không đầu Chi tiết ghép nối không đầu là loại chi tiết ghép nối - dù có ren hay không ren - mà không đầu nào của nó được gia công phình ra."
+    "term": "headless fastener",
+    "definition": "Chi tiết ghép nối không đầu Chi tiết ghép nối không đầu là loại chi tiết ghép nối - dù có ren hay không ren - mà không đầu nào của nó được gia công phình ra."
   },
   {
     "term": "headphone head",
@@ -11460,8 +11376,8 @@
     "definition": "Thép dụng cụ tốc độ cao Thép dụng cụ tốc độ cao là các hợp kim thép có khả năng duy trì độ bền khi làm việc ở các nhiệt độ làm chúng nóng đỏ. Thép này dùng để chế tạo các dụng cụ cắt kim loại."
   },
   {
-    "term": "high-strength fastener chi",
-    "definition": "Tiết ghép nối có độ bền cao Chi tiết ghép nối có độ bền kéo và độ bền cắt cao nhờ sử dụng vật liệu chế tạo kết hợp với các quá trình gia công tôi cứng và xử lí nhiệt tốt."
+    "term": "high-strength fastener",
+    "definition": "Chi tiết ghép nối có độ bền cao Chi tiết ghép nối có độ bền kéo và độ bền cắt cao nhờ sử dụng vật liệu chế tạo kết hợp với các quá trình gia công tôi cứng và xử lí nhiệt tốt."
   },
   {
     "term": "high-tension magneto manheto",
@@ -11572,8 +11488,8 @@
     "definition": "Đường chân trời Đường chân trời là đường biên giới hạn của thị giác, nằm giao giữa mặt đất và bầu trời."
   },
   {
-    "term": "horizontal theo",
-    "definition": "Phương nằm ngang Theo phương nằm ngang nghĩa là theo phương song song với đường chân trời hoặc với đường chân đế của một vật thể."
+    "term": "horizontal",
+    "definition": "Theo phương nằm ngang Theo phương nằm ngang nghĩa là theo phương song song với đường chân trời hoặc với đường chân đế của một vật thể."
   },
   {
     "term": "horizontal stabilizer",
@@ -11680,8 +11596,8 @@
     "definition": "Đồng hồ thời gian hành trình Đồng hồ thời gian hành trình là một loại dụng cụ đo thời gian vận hành. Nếu được gắn vào tốc kế cơ khí thì nó chỉ hoạt động chính xác ứng với một vòng quay cụ thể."
   },
   {
-    "term": "housing khung",
-    "definition": "Đựng, hộp đựng, vỏ chứa."
+    "term": "housing",
+    "definition": "Khung Đựng, hộp đựng, vỏ chứa."
   },
   {
     "term": "hover",
@@ -11980,8 +11896,8 @@
     "definition": "Xilanh đầu chữ I Xi lanh đầu chữ I là xilanh của động cơ xilanh pistông, ở đó các van xupáp nạp và xả được đặt trên mặt đầu (nắp) xi lanh. Xilanh này còn có tên là in-head cylinder."
   },
   {
-    "term": "illumination khu",
-    "definition": "Vực được chiếu sáng Khu vực được chiếu sáng bởi một nguồn sáng nào đó."
+    "term": "illumination",
+    "definition": "Khu vực được chiếu sáng Khu vực được chiếu sáng bởi một nguồn sáng nào đó."
   },
   {
     "term": "Illustrated parts list vt : IPL danh",
@@ -12008,8 +11924,8 @@
     "definition": "Tẩy bằng axit Sự tẩy sạch các mạt sắt khỏi bề mặt thép không gỉ bằng cách nhúng nó trong một dung dịch a xít."
   },
   {
-    "term": "impact area khu",
-    "definition": "Vực bị va đập, vùng bị va đập Khu vực bị va đập là chỉ phần kết cấu máy bay bị hư hỏng do sự va chạm hoặc va đập nhiều lần với một vật nào đó."
+    "term": "impact area",
+    "definition": "Khu vực bị va đập, vùng bị va đập Khu vực bị va đập là chỉ phần kết cấu máy bay bị hư hỏng do sự va chạm hoặc va đập nhiều lần với một vật nào đó."
   },
   {
     "term": "impact extrusion",
@@ -12453,11 +12369,7 @@
   },
   {
     "term": "instrument landing system vt : ILS",
-    "definition": "Hệ thống hạ cánh nhờ dụng cụ, hệ thống hạ cánh mò Hệ thống hạ cánh nhờ dụng cụ là một hệ thống các thiết bị có độ chính xác cao giúp máy bay tiếp cận hạ cánh. Hệ này thường gồm các bộ phận điện tử và các trợ giúp trực giác sau"
-  },
-  {
-    "term": ":",
-    "definition": "Thiết bị dẫn đường hạ cánh điện tử (localizer), các đèn dẫn đường điện tử (marker beacons), đường định vị lướt hạ cánh (glide slope), và các đèn hướng dẫn hạ cánh (approach lights). Xem thêm các từ vừa nêu ở các vần tương ứng trong từ điển này."
+    "definition": "Hệ thống hạ cánh nhờ dụng cụ, hệ thống hạ cánh mò Hệ thống hạ cánh nhờ dụng cụ là một hệ thống các thiết bị có độ chính xác cao giúp máy bay tiếp cận hạ cánh. Hệ này thường gồm các bộ phận điện tử và các trợ giúp trực giác sau: Thiết bị dẫn đường hạ cánh điện tử (localizer), các đèn dẫn đường điện tử (marker beacons), đường định vị lướt hạ cánh (glide slope), và các đèn hướng dẫn hạ cánh (approach lights). Xem thêm các từ vừa nêu ở các vần tương ứng trong từ điển này."
   },
   {
     "term": "instrument panel panel",
@@ -12544,12 +12456,12 @@
     "definition": "Điện dung liên cực Điện dung liên cực là hiệu ứng điện dung giữa hai phần tử trong một ống điện tử. Các tín hiệu có tần số cao có thể đi qua điện dung liên cực giữa điện cực tấm và điện cực lưới."
   },
   {
-    "term": "interelectrode capacitance dung",
-    "definition": "Kháng liên cực Dung kháng liên cực là dung kháng tồn tại giữa hai điện cực trong ống điện tử."
+    "term": "interelectrode capacitance",
+    "definition": "Dung kháng liên cực Dung kháng liên cực là dung kháng tồn tại giữa hai điện cực trong ống điện tử."
   },
   {
-    "term": "interface mặt dao",
-    "definition": "Diện, mặt phân cách Mặt dao diện là một bề mặt tạo ra một biên giới chung giữa hai phần vật chất hoặc hai bộ phận, ví dụ mặt phân cách giữa nước và dầu,..."
+    "term": "interface mặt",
+    "definition": "Dao diện, mặt phân cách Mặt dao diện là một bề mặt tạo ra một biên giới chung giữa hai phần vật chất hoặc hai bộ phận, ví dụ mặt phân cách giữa nước và dầu,..."
   },
   {
     "term": "interference fit",
@@ -13356,8 +13268,8 @@
     "definition": "Nhiệt chuyển pha bay hơi Nhiệt chuyển pha bay hơi là lượng nhiệt mà nước hấp thụ để có thể chuyển từ trạng thái lỏng sang trạng thái hơi."
   },
   {
-    "term": "lateral theo",
-    "definition": "Phương ngang máy bay, theo phương sải cánh máy bay Theo phương ngang máy bay nghĩa là theo phương vuông góc với mặt phẳng đối xứng của máy bay."
+    "term": "lateral",
+    "definition": "Theo phương ngang máy bay, theo phương sải cánh máy bay Theo phương ngang máy bay nghĩa là theo phương vuông góc với mặt phẳng đối xứng của máy bay."
   },
   {
     "term": "lateral axis",
@@ -13369,11 +13281,7 @@
   },
   {
     "term": "lateral vibration",
-    "definition": "Sự rung động ngang của trực thăng Rung động ngang là một dạng rung động ở trực thăng mà các dao động xảy ra"
-  },
-  {
-    "term": "theo",
-    "definition": "Phương ngang (phương cạnh). Nguyên nhân thường là sự mất cân bằng của rôto chính. Xem thêm lateral và main rotor."
+    "definition": "Sự rung động ngang của trực thăng Rung động ngang là một dạng rung động ở trực thăng mà các dao động xảy ra theo Phương ngang (phương cạnh). Nguyên nhân thường là sự mất cân bằng của rôto chính. Xem thêm lateral và main rotor."
   },
   {
     "term": "lathe",
@@ -13484,8 +13392,8 @@
     "definition": "Qui tắc bàn tay trái trong máy phát : xét bàn tay trái với ngón cái, ngón trỏ, và ngón giữa nằm vuông góc với nhau (tạo thành một góc tam diện thuận). Nếu ngón cái chỉ hướng chuyển động của dây dẫn, ngón trỏ chỉ hướng của các đường sức (từ bắc tới nam), thì ngón giữa sẽ chỉ hướng của điện áp cảm ứng xuất hiện trong dây dẫn (từ cực dương tới cực âm). 2. qui tắc bàn tay trái chỉ hướng từ trường : nếu bàn tay trái nắm lấy một dây dẫn sao cho ngón cái chỉ theo hướng dòng điện, thì các ngón còn lại sẽ chỉ hướng của đường sức từ trường do dây dẫn đó sinh ra ( đây là cách phát biểu khác đi của qui tắc vặn nút chai ). 3. qui tắc bàn tay trái chỉ cực của một nam châm điện : nếu chúng ta dùng bàn tay trái nắm lấy cuộn dây của một nam châm điện sao cho các ngón tay khum theo chiều chạy của dòng điện trong cuộn dây, thì ngón cái sẽ chỉ vào cực bắc của nam châm điện làm từ cuộn dây đó. Xem thêm các hình vẽ giải thích."
   },
   {
-    "term": "left-hand thread ren",
-    "definition": "Trái Ren trái là vòng ren khi nhìn theo hướng trục thì cuốn theo ngược chiều kim đồng hồ và theo hướng lùi ra xa. Mọi ren trái đều có kí hiệu LH."
+    "term": "left-hand thread",
+    "definition": "Ren trái Ren trái là vòng ren khi nhìn theo hướng trục thì cuốn theo ngược chiều kim đồng hồ và theo hướng lùi ra xa. Mọi ren trái đều có kí hiệu LH."
   },
   {
     "term": "legs of a right triangle",
@@ -13872,8 +13780,8 @@
     "definition": "Xà dọc thân Chỉ kết cấu xà dọc của thân máy bay hoặc vỏ động cơ. Đây là thành phần kết cấu chính chịu tải dọc trục của thân máy bay hoặc vỏ động cơ."
   },
   {
-    "term": "longitudinal theo",
-    "definition": "Phương trục dọc, theo phương chiều dài thân."
+    "term": "longitudinal",
+    "definition": "Theo phương trục dọc, theo phương chiều dài thân."
   },
   {
     "term": "longitudinal axis",
@@ -14004,8 +13912,8 @@
     "definition": "Điện trở gộp : là tải lí thuyết khi giả thiết rằng một tải điện trở phân bố nào đó được coi là tập trung vào (hay thay thế bởi) một tải điện trở đơn duy nhất. 2. tải tập trung, điện trở tập trung : là tải điện mà điện trở của nó lớn hơn rất nhiều so với các điện trở khác phân bố trên mạch (ví dụ điện trở dây dẫn,...). Lúc này tải của mạch có thể coi như tập trung tại vị trí của điện trở nói trên."
   },
   {
-    "term": "lye dung",
-    "definition": "Dịch kiềm Dung dịch kiềm ở đây là chỉ dung dịch NaOH hoặc KOH."
+    "term": "lye",
+    "definition": "Dung dịch kiềm Dung dịch kiềm ở đây là chỉ dung dịch NaOH hoặc KOH."
   },
   {
     "term": "Mach number kh : M",
@@ -14212,8 +14120,8 @@
     "definition": "Hội đồng đánh giá bảo dưỡng, ban đánh giá bảo dưỡng"
   },
   {
-    "term": "major alteration thay",
-    "definition": "Đổi lớn trên máy bay Thay đổi lớn trên máy bay là sự thay đổi không được ghi trong thông số kỹ thuật máy bay hay động cơ cánh quạt. Đây là thay đổi có thể ảnh hưởng tới trọng lượng cân bằng, độ bền, kết cấu, sự hoạt động, hoạt động sinh lực, các đặc tính bay, hoặc các yếu tố chất lượng khác ảnh hưởng tới tính chất khả phi. Hơn nữa, việc tiến hành thay đổi này không tuân theo quy trình được phép thông thường, và cũng không thể thực hiện được nếu chỉ sử dụng các phương pháp sơ cấp."
+    "term": "major alteration",
+    "definition": "Thay đổi lớn trên máy bay Thay đổi lớn trên máy bay là sự thay đổi không được ghi trong thông số kỹ thuật máy bay hay động cơ cánh quạt. Đây là thay đổi có thể ảnh hưởng tới trọng lượng cân bằng, độ bền, kết cấu, sự hoạt động, hoạt động sinh lực, các đặc tính bay, hoặc các yếu tố chất lượng khác ảnh hưởng tới tính chất khả phi. Hơn nữa, việc tiến hành thay đổi này không tuân theo quy trình được phép thông thường, và cũng không thể thực hiện được nếu chỉ sử dụng các phương pháp sơ cấp."
   },
   {
     "term": "major diameter",
@@ -15628,8 +15536,8 @@
     "definition": "Phanh không trượt Phanh không trượt là khái niệm liên quan đến một đặc tính của các hệ thống phanh máy bay hiện đại. Trên tang trống bánh có gắn một cơ cấu máy phát điện để kiểm soát sự trượt của bánh, bằng cách đo vận tốc quay của bánh. Khi bánh quay, máy phát sẽ tạo ra một tín hiệu dòng và điện áp. Tín hiệu này được truyền tới hộp kiểm soát trượt bánh và điều khiển van điện từ làm giảm áp lực phanh cho đến khi vận tốc quay được phục hồi; cứ như vậy phanh này không làm gây ra hiện tượng trượt khi phanh."
   },
   {
-    "term": "nonstandard fastener chi",
-    "definition": "Tiết lắp ghép không tiêu chuẩn Chỉ các chi tiết lắp ghép được chế tạo với hình dáng, hoặc kích thước, hoặc vật liệu..., không theo các tiêu chuẩn công bố thông thường."
+    "term": "nonstandard fastener",
+    "definition": "Chi tiết lắp ghép không tiêu chuẩn Chỉ các chi tiết lắp ghép được chế tạo với hình dáng, hoặc kích thước, hoặc vật liệu..., không theo các tiêu chuẩn công bố thông thường."
   },
   {
     "term": "nonstructural",
@@ -15688,8 +15596,8 @@
     "definition": "Trạng thái bị nặng mũi Bị nặng mũi là một trạng thái của máy bay, khi đó trọng tâm máy bay nằm trước khoảng giới hạn trọng tâm."
   },
   {
-    "term": "nose rib khung",
-    "definition": "Vách mép trước cánh, khung vách sườn tấn công cánh Vách mép trước cánh là phần kết cấu khung vách cánh (wing rib) bắt đầu chỉ từ mép trước cánh đến xà chính của cánh (main spar). Tác dụng của kết cấu này là tạo ra sự trơn tru khí động cho mép trước cánh."
+    "term": "nose rib",
+    "definition": "Khung Vách mép trước cánh, khung vách sườn tấn công cánh Vách mép trước cánh là phần kết cấu khung vách cánh (wing rib) bắt đầu chỉ từ mép trước cánh đến xà chính của cánh (main spar). Tác dụng của kết cấu này là tạo ra sự trơn tru khí động cho mép trước cánh."
   },
   {
     "term": "nose section",
@@ -16160,8 +16068,8 @@
     "definition": "Hình chiếu đứng Hình chiếu đứng là hình chiếu của một vật thể mà phương chiếu vuông góc với cả vật thể và bề mặt bản vẽ."
   },
   {
-    "term": "oscillate dao",
-    "definition": "Động Dao động là sự chuyển động qua lại theo một nhịp điệu nhất định."
+    "term": "oscillate",
+    "definition": "Dao động Dao động là sự chuyển động qua lại theo một nhịp điệu nhất định."
   },
   {
     "term": "oscillator 1.",
@@ -16256,8 +16164,8 @@
     "definition": "Đại tu Đại tu là phục hồi một chiếc máy bay, động cơ, hoặc thiết bị về trạng thái hoạt động bình thường của nó."
   },
   {
-    "term": "overhead cam cam",
-    "definition": "Ở đỉnh xilanh Cơ cấu cam nằm ở đỉnh xilanh của động cơ máy bay xilanh pistông. Cam này điều khiển trực tiếp các van xupap mà không cần sử dụng cần đẩy cam."
+    "term": "overhead cam",
+    "definition": "Cam Ở đỉnh xilanh Cơ cấu cam nằm ở đỉnh xilanh của động cơ máy bay xilanh pistông. Cam này điều khiển trực tiếp các van xupap mà không cần sử dụng cần đẩy cam."
   },
   {
     "term": "overhead valve",
@@ -16420,8 +16328,8 @@
     "definition": "Sự hạ cánh nhảy cóc Hạ cánh nhảy cóc là một dạng hạ cánh thô không chuẩn xác của máy bay. Khi hạ cánh, máy bay nằm trong mặt phẳng song song với đường băng (nghĩa là góc tấn cánh xấp xỉ 0), do đó khi máy bay giảm tốc nó mất lực nâng và rơi tụt xuống, rồi cứ thế chuyển động nhảy cóc trên đường băng."
   },
   {
-    "term": "panel panel, khung",
-    "definition": "Kết cấu Mỗi phần bề mặt tách biệt cụ thể trong một kết cấu máy bay được gọi là một panel."
+    "term": "panel panel,",
+    "definition": "Khung Kết cấu Mỗi phần bề mặt tách biệt cụ thể trong một kết cấu máy bay được gọi là một panel."
   },
   {
     "term": "pan-head screw",
@@ -16612,8 +16520,8 @@
     "definition": "Dùng bút chì Dụng cụ vẽ đường tròn hoặc cung tròn với bộ phận vẽ là một chiếc bút chì."
   },
   {
-    "term": "pendulum con lắc dao",
-    "definition": "Động Một trọng lượng tập trung được treo vào một điểm cố định thông qua một sợi dây và có thể tự do dao động nhờ thế năng ban đầu."
+    "term": "pendulum con lắc",
+    "definition": "Dao động Một trọng lượng tập trung được treo vào một điểm cố định thông qua một sợi dây và có thể tự do dao động nhờ thế năng ban đầu."
   },
   {
     "term": "pendulum valves",
@@ -16716,8 +16624,8 @@
     "definition": "Các nét khuất, các đường ảo Nét khuất là các nét vẽ thể hiện bởi các đường gạch nét đứt trong bản vẽ; cách thể hiện này ám chỉ rằng nét đó của hình bị che khuất bởi một hình khác xét theo hướng nhìn."
   },
   {
-    "term": "phase 1. pha dao",
-    "definition": "Động : sự chênh lệch về thời gian giữa một điểm trên sóng điện áp (voltage wave) và một điểm tương ứng trên sóng dòng (current wave) trong một mạch điện xoay chiều. 2. pha bảo dưỡng : một phần hoặc một giai đoạn tách biệt trong chương trình bảo dưỡng hoặc trong một phiếu kiểm tra bảo dưỡng (task card). Ví dụ, một phiếu bảo dưỡng càng máy bay có thể chia thành hai pha do hai người khác nhau tiến hành đồng thời hoặc lần lượt."
+    "term": "phase 1. pha",
+    "definition": "Dao động : sự chênh lệch về thời gian giữa một điểm trên sóng điện áp (voltage wave) và một điểm tương ứng trên sóng dòng (current wave) trong một mạch điện xoay chiều. 2. pha bảo dưỡng : một phần hoặc một giai đoạn tách biệt trong chương trình bảo dưỡng hoặc trong một phiếu kiểm tra bảo dưỡng (task card). Ví dụ, một phiếu bảo dưỡng càng máy bay có thể chia thành hai pha do hai người khác nhau tiến hành đồng thời hoặc lần lượt."
   },
   {
     "term": "phase angle",
@@ -16912,8 +16820,8 @@
     "definition": "Là các sợi dây thép thò ra trên các thiết bị để có thể chằng hay cố định thiết bị vào một nơi mong muốn."
   },
   {
-    "term": "pilot 1. phi",
-    "definition": "Công, người lái : một người có chứng chỉ để được phép điều khiển tàu bay. 2. thiết bị điều khiển : chỉ một thiết bị có thể điều khiển hoặc dẫn hướng chuyển động cho một thiết bị khác."
+    "term": "pilot 1.",
+    "definition": "Phi công, người lái : một người có chứng chỉ để được phép điều khiển tàu bay. 2. thiết bị điều khiển : chỉ một thiết bị có thể điều khiển hoặc dẫn hướng chuyển động cho một thiết bị khác."
   },
   {
     "term": "pilot chute",
@@ -16984,8 +16892,8 @@
     "definition": "Pistông Pistông là thành phần hình trụ chuyển động qua lại một ống xilanh bằng thép. Chuyển động này cho phép nén hỗn hợp khí nhiên liệu và truyền lực (do sự dãn của hỗn hợp khí cháy trong xilanh) tới trục khuỷu."
   },
   {
-    "term": "piston displacement dung",
-    "definition": "Tích làm việc của pistông Dung tích làm việc của pistông là tổng thể tích mà pistông của động cơ quét được trong một vòng quay của trục khuỷu."
+    "term": "piston displacement",
+    "definition": "Dung tích làm việc của pistông Dung tích làm việc của pistông là tổng thể tích mà pistông của động cơ quét được trong một vòng quay của trục khuỷu."
   },
   {
     "term": "piston engine",
@@ -17037,11 +16945,7 @@
   },
   {
     "term": "pitch of a propeller",
-    "definition": "Bước dịch chuyển cánh quạt Bước dịch chuyển cánh quạt máy bay là khoảng dịch chuyển của cánh quạt,"
-  },
-  {
-    "term": "theo",
-    "definition": "Phương trục quay trong một vòng quay, để chuyển lực đẩy từ giá trị cực đại (max) về giá trị không (0). Bước này còn gọi là experimental mean pitch hay zero-thrust pitch."
+    "definition": "Bước dịch chuyển cánh quạt Bước dịch chuyển cánh quạt máy bay là khoảng dịch chuyển của cánh quạt, theo hương trục quay trong một vòng quay, để chuyển lực đẩy từ giá trị cực đại (max) về giá trị không (0). Bước này còn gọi là experimental mean pitch hay zero-thrust pitch."
   },
   {
     "term": "pitch of screw thread",
@@ -17273,11 +17177,7 @@
   },
   {
     "term": "pneumatic-mechanical fuel control",
-    "definition": "Sự điều khiển nhiên liệu cơ"
-  },
-  {
-    "term": "-",
-    "definition": "Khí nén Một dạng điều khiển nhiên liệu ở đó các lực cơ học và khí nén được sử dụng để vận hành các cơ cấu điều tiết nhiên liệu."
+    "definition": "Sự điều khiển nhiên liệu cơ  - Khí nén Một dạng điều khiển nhiên liệu ở đó các lực cơ học và khí nén được sử dụng để vận hành các cơ cấu điều tiết nhiên liệu."
   },
   {
     "term": "pneumatics",
@@ -17568,8 +17468,8 @@
     "definition": "Hồi năng lượng, tuabin hồi năng Tuabin hồi năng là một dạng thiết bị thu hồi năng lượng dùng trong động cơ Wright R-3350 : các khí xả từ động cơ chính sẽ làm quay một số tuabin nhỏ được gắn với trục khuỷu thông qua các thiết bị khớp li hợp thủy lực."
   },
   {
-    "term": "power section khu",
-    "definition": "Vực sinh lực, khu vực tạo công suất Chỉ khu vực đặt các xilanh của động cơ hướng kính."
+    "term": "power section",
+    "definition": "Khu vực sinh lực, khu vực tạo công suất Chỉ khu vực đặt các xilanh của động cơ hướng kính."
   },
   {
     "term": "power stroke",
@@ -18209,11 +18109,7 @@
   },
   {
     "term": "quality control vt : QC",
-    "definition": "Sự quản lý giám sát chất lượng, công tác KCS Sự quản lý giám sát các chức năng và hoạt động của mọi bộ phận liên quan tới kĩ thuật máy bay (ví dụ hoạt động bảo dưỡng máy bay trong một cơ sở bảo dưỡng...). Cụ thể, bộ phận làm công tác này"
-  },
-  {
-    "term": "-",
-    "definition": "Được gọi là QC - có nhiệm vụ giám sát chất lượng, giám sát các tiêu chuẩn cũng như các hoạt động trong quá trình bảo dưỡng, sửa chữa, hoặc chế tạo máy bay, động cơ hoặc thiết bị máy lẻ. Việc thiết lập các qui trình, các tiêu chuẩn, cũng như việc đánh giá để luôn hoàn thiện các tiêu chuẩn đó là nội dung hoạt động của một bộ phận khác ở chức năng chuyên môn cao hơn gọi là QA (quality assurance) hay bộ phận đảm bảo chất lượng."
+    "definition": "Sự quản lý giám sát chất lượng, công tác KCS Sự quản lý giám sát các chức năng và hoạt động của mọi bộ phận liên quan tới kĩ thuật máy bay (ví dụ hoạt động bảo dưỡng máy bay trong một cơ sở bảo dưỡng...). Cụ thể, bộ phận làm công tác này  - Được gọi là QC - có nhiệm vụ giám sát chất lượng, giám sát các tiêu chuẩn cũng như các hoạt động trong quá trình bảo dưỡng, sửa chữa, hoặc chế tạo máy bay, động cơ hoặc thiết bị máy lẻ. Việc thiết lập các qui trình, các tiêu chuẩn, cũng như việc đánh giá để luôn hoàn thiện các tiêu chuẩn đó là nội dung hoạt động của một bộ phận khác ở chức năng chuyên môn cao hơn gọi là QA (quality assurance) hay bộ phận đảm bảo chất lượng."
   },
   {
     "term": "quantity",
@@ -18284,8 +18180,8 @@
     "definition": "Cái bào gỗ Một loại dụng cụ gia công gỗ với lưỡi cắt hơi nhô lên trên một bề mặt phẳng thuộc thân của dụng cụ này."
   },
   {
-    "term": "race",
-    "definition": "Mặt lăn ổ đỡ Một bề mặt thép được tôi cứng và đánh bóng mà trên đó ổ đỡ tựa lên."
+    "term": "Mặtrace",
+    "definition": " lăn ổ đỡ Một bề mặt thép được tôi cứng và đánh bóng mà trên đó ổ đỡ tựa lên."
   },
   {
     "term": "rack",
@@ -18756,8 +18652,8 @@
     "definition": "Tăng cường, gia cường, củng cố Tăng độ bền bằng cách sử dụng thêm một vật liệu bổ sung."
   },
   {
-    "term": "reinforced shell khung",
-    "definition": "Vỏ gia cường Một dạng kết cấu máy bay, ở đây lớp vỏ ngoài của nó được gia cường bởi một bộ khung hoàn chỉnh các thành phần kết cấu - ví dụ các loại nẹp ngang, nẹp dọc... - nhằm tăng độ cứng vững của vỏ."
+    "term": "reinforced shell",
+    "definition": "Khung Vỏ gia cường Một dạng kết cấu máy bay, ở đây lớp vỏ ngoài của nó được gia cường bởi một bộ khung hoàn chỉnh các thành phần kết cấu - ví dụ các loại nẹp ngang, nẹp dọc... - nhằm tăng độ cứng vững của vỏ."
   },
   {
     "term": "reinforcing tape",
@@ -18980,8 +18876,8 @@
     "definition": "Các điểm đánh lửa trễ Một số các tiếp điểm phụ ngắt đánh lửa trong manhêtô được trang bị hệ thống đánh lửa Shower of Sparks. Chúng chỉ hoạt động trong chu kỳ khởi động của động cơ và ngắt muộn hơn các điểm đánh lửa bình thường nhằm tạo ra tia lửa trễ. Xem thêm Shower of Sparks."
   },
   {
-    "term": "retarder dung",
-    "definition": "Môi làm chậm khô Một loại dung môi làm lâu khô, được dùng để tránh hiện tượng rộp của bề mặt lớp sơn phủ hoặc để tạo ra một bề mặt bóng đẹp và bền hơn cho lớp sơn máy bay."
+    "term": "retarder",
+    "definition": "Dung môi làm chậm khô Một loại dung môi làm lâu khô, được dùng để tránh hiện tượng rộp của bề mặt lớp sơn phủ hoặc để tạo ra một bề mặt bóng đẹp và bền hơn cho lớp sơn máy bay."
   },
   {
     "term": "retentivity",
@@ -19104,8 +19000,8 @@
     "definition": "Lưỡi lửa giàu nhiên liệu Một trạng thái hoạt động ở động cơ tuabin, khi đó xuất hiện một lưỡi lửa phụt ra phía sau động cơ; nguyên nhân là do hỗn hợp khí-nhiên liệu quá giàu nhiên liệu."
   },
   {
-    "term": "rich solvent dung",
-    "definition": "Môi giầu, dung môi lâu khô."
+    "term": "rich solvent",
+    "definition": "Dung môi giầu, dung môi lâu khô."
   },
   {
     "term": "rigging",
@@ -19124,8 +19020,8 @@
     "definition": "Góc vuông Góc 90o , góc có hai tia cạnh của góc vuông góc với nhau."
   },
   {
-    "term": "right-hand thread ren",
-    "definition": "Phải Vòng ren mà nếu ta nhìn theo hướng xoắn trục ren sẽ thấy vòng ren đó cuốn theo chiều kim đồng hồ và chạy lùi ra xa mắt nhìn. Bình thường trong kĩ thuật thường dùng ren phải, chỉ có một số ứng dụng cần thiết mới dùng ren trái."
+    "term": "right-hand thread",
+    "definition": "Ren phải Vòng ren mà nếu ta nhìn theo hướng xoắn trục ren sẽ thấy vòng ren đó cuốn theo chiều kim đồng hồ và chạy lùi ra xa mắt nhìn. Bình thường trong kĩ thuật thường dùng ren phải, chỉ có một số ứng dụng cần thiết mới dùng ren trái."
   },
   {
     "term": "rigid airship",
@@ -19168,8 +19064,8 @@
     "definition": "Bóng khí Một panel chứa các quả bóng khí tự do nằm dưới thân máy bay. Trong các trường hợp khẩn cấp hoặc để hạ cánh, có thể điều khiển khí trong các quả bóng này phun ra bằng cách rút một sợi dây buộc để mở xì bóng."
   },
   {
-    "term": "ripple dao",
-    "definition": "Động gợn sóng lăn tăn Dao động lăn tăn có chu kì nhỏ xuất hiện trên một mức điện áp của nguồn điện một chiều. Xem hình vẽ."
+    "term": "ripple",
+    "definition": "Dao động gợn sóng lăn tăn Dao động lăn tăn có chu kì nhỏ xuất hiện trên một mức điện áp của nguồn điện một chiều. Xem hình vẽ."
   },
   {
     "term": "ripsaw",
@@ -19252,8 +19148,8 @@
     "definition": "Tàu không gian sử dụng động cơ tên lửa đẩy."
   },
   {
-    "term": "rocketry khoa",
-    "definition": "Học về tên lửa Các nghiên cứu về lí thuyết và phát triển tên lửa."
+    "term": "rocketry",
+    "definition": "Khoa học về tên lửa Các nghiên cứu về lí thuyết và phát triển tên lửa."
   },
   {
     "term": "rocking shaft",
@@ -19377,11 +19273,7 @@
   },
   {
     "term": "rubber cement",
-    "definition": "Nhựa cao su Một loại keo nhựa dính làm từ cao su"
-  },
-  {
-    "term": "-",
-    "definition": "Là loại cao su mặc dù chưa qua quá trình lưu hóa nhưng đã được hòa tan trong dung môi."
+    "definition": "Nhựa cao su Một loại keo nhựa dính làm từ cao su  - Là loại cao su mặc dù chưa qua quá trình lưu hóa nhưng đã được hòa tan trong dung môi."
   },
   {
     "term": "rudder",
@@ -20000,8 +19892,8 @@
     "definition": "Tờ thông tin bảo dưỡng, tài liệu SB, thông báo kĩ thuật tùy chọn Bản thông báo các thông tin do nhà sản xuất máy bay, động cơ hoặc thiết bị phát hành, ở đó ghi rõ và chi tiết các thủ tục và nội dung cần tiến hành bảo dưỡng nhằm nâng cao độ an toàn cũng như cải thiện sự làm việc của một thiết bị nào đó. Nội dung công việc của loại tài liệu này thường không mang tính bắt buộc (recommended only), nghĩa là nhà khai thác máy bay có thể xem xét và quyết định có nên thực hiện nó trên máy bay của mình hay không (tùy thuộc nhiều yếu tố như : giá thành, sự cần thiết,...). Phân biệt với loại tài liệu này là tài liệu thông báo kĩ thuật bắt buộc AD (Airworthiness Directives)."
   },
   {
-    "term": "service capacity dung",
-    "definition": "Lượng phục vụ của ắc qui Số đo năng lượng điện mà một ắc qui hóa học có thể tích chứa; con số này được đo trong các điều kiện xác định và được thể hiện theo số ampe -giờ."
+    "term": "service capacity",
+    "definition": "Dung lượng phục vụ của ắc qui Số đo năng lượng điện mà một ắc qui hóa học có thể tích chứa; con số này được đo trong các điều kiện xác định và được thể hiện theo số ampe -giờ."
   },
   {
     "term": "service ceiling",
@@ -20556,8 +20448,8 @@
     "definition": "Sự trượt dài Một trạng thái không cân bằng của máy bay khi quay vòng, khi đó máy bay chuyển động trượt hướng ra phía ngoài của vòng cua."
   },
   {
-    "term": "skid fin dao",
-    "definition": "Chỉnh dòng, vây chỉnh dòng Một bề mặt mỏng thẳng đứng nằm theo phương dọc của máy bay; chúng thường được bố trí ở bề mặt trên của cánh để tăng tính ổn định ngang của máy bay. Xem thêm lateral stability."
+    "term": "skid fin",
+    "definition": "Dao chỉnh dòng, vây chỉnh dòng Một bề mặt mỏng thẳng đứng nằm theo phương dọc của máy bay; chúng thường được bố trí ở bề mặt trên của cánh để tăng tính ổn định ngang của máy bay. Xem thêm lateral stability."
   },
   {
     "term": "skid shoes",
@@ -20856,8 +20748,8 @@
     "definition": "Nhiên liệu dạng đặc Chỉ loại nhiên liệu ở dạng đặc, như gỗ, than, hoặc một trong các vật liệu chế tạo nhiên liệu đặc ở các động cơ tên lửa."
   },
   {
-    "term": "solid solution dung",
-    "definition": "Dịch rắn, dung dịch đặc Kết quả của sự trộn lẫn hai hoặc nhiều chất hay hợp chất, và khi nhệt độ tăng lên chúng hòa tan trong nhau nhưng vẫn tồn tại ở trạng thái đặc."
+    "term": "solid solution",
+    "definition": "Dung dịch rắn, dung dịch đặc Kết quả của sự trộn lẫn hai hoặc nhiều chất hay hợp chất, và khi nhệt độ tăng lên chúng hòa tan trong nhau nhưng vẫn tồn tại ở trạng thái đặc."
   },
   {
     "term": "solidity",
@@ -20872,16 +20764,16 @@
     "definition": "Có thể hòa tan. 2. chất có thể hòa tan."
   },
   {
-    "term": "solution dung",
-    "definition": "Dịch Trạng thái ở đó một chất kim loại nền và các chất hợp kim được kết hợp với nhau để tạo ra một kim loại dạng đặc duy nhất."
+    "term": "solution",
+    "definition": "Dung dịch Trạng thái ở đó một chất kim loại nền và các chất hợp kim được kết hợp với nhau để tạo ra một kim loại dạng đặc duy nhất."
   },
   {
     "term": "solution heat treatment",
     "definition": "Xử lý nhiệt dung dịch Một dạng xử lý nhiệt hợp kim nhôm; tại đây, kim loại được nung tới nhiệt độ xử lí nhiệt của nó cho đến khi tổ chức kim loại trở nên đồng nhất trong toàn bộ chi tiết, sau đó đem đi tôi. Quá trình này bao gồm việc giữ các thành phần hợp kim ở trạng thái dung dịch đặc nhằm làm tăng độ bền kim loại."
   },
   {
-    "term": "solvent dung",
-    "definition": "Môi, chất hòa tan Một chất lỏng có khả năng hòa tan một chất khác."
+    "term": "solvent",
+    "definition": "Dung môi, chất hòa tan Một chất lỏng có khả năng hòa tan một chất khác."
   },
   {
     "term": "sonic boom",
@@ -20972,8 +20864,8 @@
     "definition": "Đai ốc có xẻ rãnh khía Loại đai ốc này có thể vặn được là nhờ dùng một loại clê có mấu tì tì vào các rãnh trên đai ốc và xoay."
   },
   {
-    "term": "spanwise theo",
-    "definition": "Hướng sải cánh Theo hướng từ đầu mút này đến đầu mút kia của cánh."
+    "term": "spanwise",
+    "definition": "Theo Hướng sải cánh Theo hướng từ đầu mút này đến đầu mút kia của cánh."
   },
   {
     "term": "spar",
@@ -21024,8 +20916,8 @@
     "definition": "Cuộn dây động Một cuộn dây điện từ nhỏ trong ống têlêphôn hoặc trong loa; nó dịch chuyển và rung động cùng với giọng nói của người nói và truyền giọng nói này đi dưới dạng các sóng dao động âm thanh."
   },
   {
-    "term": "special fastener chi",
-    "definition": "Tiết ghép nối đặc biệt Chi tiết này khác xa các chi tiết ghép nối theo tiêu chuẩn thông thường về mọi khía cạnh."
+    "term": "special fastener",
+    "definition": "Chi tiết ghép nối đặc biệt Chi tiết này khác xa các chi tiết ghép nối theo tiêu chuẩn thông thường về mọi khía cạnh."
   },
   {
     "term": "specific fuel consumption",
@@ -21221,11 +21113,7 @@
   },
   {
     "term": "spot check",
-    "definition": "Kiểm tra ngẫu nhiên Việc lựa chọn ngẫu nhiên một sản phẩm nào đó để kiểm tra. Kết quả kiểm tra này sẽ cho biết chất lượng"
-  },
-  {
-    "term": "-",
-    "definition": "Tất nhiên mang tính xác suất - của loạt sản phẩm được sản suất."
+    "definition": "Kiểm tra ngẫu nhiên Việc lựa chọn ngẫu nhiên một sản phẩm nào đó để kiểm tra. Kết quả kiểm tra này sẽ cho biết chất lượng  - Tất nhiên mang tính xác suất - của loạt sản phẩm được sản suất."
   },
   {
     "term": "spot face",
@@ -21388,8 +21276,8 @@
     "definition": "Sự hoạt động ổn định Hoạt động của một hệ thống, ở đó các thông số làm việc của nó không thay đổi lên xuống thất thường."
   },
   {
-    "term": "stable oscillation dao",
-    "definition": "Động ổn định Dao động với biên độ không tăng hay giảm."
+    "term": "stable oscillation",
+    "definition": "Dao động ổn định Dao động với biên độ không tăng hay giảm."
   },
   {
     "term": "stage",
@@ -21417,11 +21305,7 @@
   },
   {
     "term": "stagnation point",
-    "definition": "Điểm rẽ dòng, điểm chia dòng Điểm ở vùng mép trước cánh - có thể nằm ở mặt trên hoặc mặt dưới của biên dạng cánh"
-  },
-  {
-    "term": "-",
-    "definition": "Tại đó dòng khí bị chia làm hai đường : một đường chạy lên mặt trên biên dạng cánh và một đường chạy xuống mặt dưới biên dạng cánh. Chú ý rằng, sau khi tách dòng thì cuối cùng các phần tử khí lại gặp nhau ở mép đuôi của biên dạng cánh - tức là chúng cùng mất một khoảng thời gian để đi hai quãng đường phía trên và phía dưới biên dạng cánh - nên suy ra rằng nếu độ khum vồng phía trên và độ khum vồng phía dưới của biên dạng cánh là khác nhau thì vân tốc của phần tử khí chuyển động phía trên và phía dưới của biên dạng cánh cũng khác nhau, và điều này gây ra hiệu ứng lực nâng trên cánh. Xem hình vẽ."
+    "definition": "Điểm rẽ dòng, điểm chia dòng Điểm ở vùng mép trước cánh - có thể nằm ở mặt trên hoặc mặt dưới của biên dạng cánh  - Tại đó dòng khí bị chia làm hai đường : một đường chạy lên mặt trên biên dạng cánh và một đường chạy xuống mặt dưới biên dạng cánh. Chú ý rằng, sau khi tách dòng thì cuối cùng các phần tử khí lại gặp nhau ở mép đuôi của biên dạng cánh - tức là chúng cùng mất một khoảng thời gian để đi hai quãng đường phía trên và phía dưới biên dạng cánh - nên suy ra rằng nếu độ khum vồng phía trên và độ khum vồng phía dưới của biên dạng cánh là khác nhau thì vân tốc của phần tử khí chuyển động phía trên và phía dưới của biên dạng cánh cũng khác nhau, và điều này gây ra hiệu ứng lực nâng trên cánh. Xem hình vẽ."
   },
   {
     "term": "stagnation temperature",
@@ -21472,8 +21356,8 @@
     "definition": "Ắc qui tiêu chuẩn Chỉ chiếc ắc qui thủy ngân-cadimi nằm trong một bình chứa thủy tinh có hình dạng đặc biệt, ở đây hai điện cực được ngâm trong dung dịch điện phân sulfát cadimi. Điện áp tạo ra bởi ắc qui này là 1,018636 vôn ở 20C. Các cụm từ tương tự là Weston standard cell hoặc Weston normal cell."
   },
   {
-    "term": "standard fastener chi",
-    "definition": "Tiết ghép nối tiêu chuẩn Chi tiết ghép nối tiêu chẩn là chi tiết ghép nối được chế tạo theo các tiêu chuẩn đã được chấp nhận rộng rãi."
+    "term": "standard fastener",
+    "definition": "Chi tiết ghép nối tiêu chuẩn Chi tiết ghép nối tiêu chẩn là chi tiết ghép nối được chế tạo theo các tiêu chuẩn đã được chấp nhận rộng rãi."
   },
   {
     "term": "standard sea level pressure",
@@ -21708,8 +21592,8 @@
     "definition": "Kết cấu làm tăng độ cứng vững vỏ Thành phần kết cấu được gắn trên phần vỏ máy bay nhằm làm tăng thêm độ cứng vững của vỏ. Thường những vị trí cần gia cường kết cấu này là những phần có lượn góc hoặc có tiết diện nhọn trên vỏ."
   },
   {
-    "term": "Stoddard solvent dung",
-    "definition": "Môi stodat Một sản phẩm của dầu lửa giống với chất napta (naphtha), được dùng như một dung môi hay chất tẩy rửa."
+    "term": "Stoddard solvent",
+    "definition": "Dung môi stodat Một sản phẩm của dầu lửa giống với chất napta (naphtha), được dùng như một dung môi hay chất tẩy rửa."
   },
   {
     "term": "stoichiometric",
@@ -22200,8 +22084,8 @@
     "definition": "Dầu nhờn tổng hợp Loại dầu bôi trơn có gốc nền làm từ vật liệu tổng hợp chứ không từ dầu lửa. Loại dầu này có xu thế tạo ôxít và cặn dầu ít hơn so với dầu nhờn từ dầu lửa, do đó nó ngày càng được dùng rộng rãi trong động cơ tuabin và động cơ xilanh pistông."
   },
   {
-    "term": "synthetic rubber cao su",
-    "definition": "Tổng hợp Một loại cao su do con người tổng hợp nên và cũng có các tính chất tương tự như cao su tự nhiên."
+    "term": "synthetic rubber",
+    "definition": "Cao su tổng hợp Một loại cao su do con người tổng hợp nên và cũng có các tính chất tương tự như cao su tự nhiên."
   },
   {
     "term": "system",
@@ -22404,8 +22288,8 @@
     "definition": "Mũi dao doa côn Một loại mũi dao doa dùng để doa trơn tru các lỗ côn."
   },
   {
-    "term": "taper tap dao",
-    "definition": "Tarô côn Dao tarô côn là một dạng dao tarô ren cầm tay, dùng để tarô mồi trước khi tiến hành tarô một lỗ đã khoan sẵn. Dao tarô này sẽ tarô cho khoảng sáu đến bẩy ren đầu tiên."
+    "term": "taper tap",
+    "definition": "Dao Taro côn Dao tarô côn là một dạng dao tarô ren cầm tay, dùng để tarô mồi trước khi tiến hành tarô một lỗ đã khoan sẵn. Dao tarô này sẽ tarô cho khoảng sáu đến bẩy ren đầu tiên."
   },
   {
     "term": "tapered crankshaft",
@@ -22725,11 +22609,7 @@
   },
   {
     "term": "thermistor",
-    "definition": "Nhiệt điện trở Một chi tiết bán dẫn gồm một vật liệu lõi"
-  },
-  {
-    "term": "-",
-    "definition": "Ví dụ các mảnh gốm - đặt trong một ống làm bằng hợp kim Inconel. Chi tiết này có điện trở thay đổi theo nhiệt độ và được sử dụng trong hệ thống báo cháy vòng kín. Xem thêm Inconel và continuous loop fire detection system."
+    "definition": "Nhiệt điện trở Một chi tiết bán dẫn gồm một vật liệu lõi  - Ví dụ các mảnh gốm - đặt trong một ống làm bằng hợp kim Inconel. Chi tiết này có điện trở thay đổi theo nhiệt độ và được sử dụng trong hệ thống báo cháy vòng kín. Xem thêm Inconel và continuous loop fire detection system."
   },
   {
     "term": "thermoammeter ampe",
@@ -22816,8 +22696,8 @@
     "definition": "Núm xoay của thước calíp Núm xoay của thước calip đo micromet và dùng để xoay trục calíp."
   },
   {
-    "term": "thinner dung",
-    "definition": "Môi pha loãng Chất dung môi được trộn với keo hoặc sơn để làm giảm độ nhớt của chúng."
+    "term": "thinner",
+    "definition": "Dung môi pha loãng Chất dung môi được trộn với keo hoặc sơn để làm giảm độ nhớt của chúng."
   },
   {
     "term": "third-class lever",
@@ -22828,8 +22708,8 @@
     "definition": "Phụ gia làm đông đặc nhựa Chất thêm vào thành phần nhựa để tăng khả năng chống lại sự chảy loãng của nó."
   },
   {
-    "term": "thread 1. ren,",
-    "definition": "Vòng ren : các đường xoắn vặn nổi được cắt trên trục thân của các chi tiết lắp ghép ren như bulông đai ốc. sợi chỉ, sợi vải : một sợi rất nhỏ làm từ vật liệu lanh, côtông hoặc các vật liệu khác; được dùng để se thành cuộn chỉ hoặc để dệt vải."
+    "term": "thread 1.",
+    "definition": "Ren, Vòng ren : các đường xoắn vặn nổi được cắt trên trục thân của các chi tiết lắp ghép ren như bulông đai ốc. sợi chỉ, sợi vải : một sợi rất nhỏ làm từ vật liệu lanh, côtông hoặc các vật liệu khác; được dùng để se thành cuộn chỉ hoặc để dệt vải."
   },
   {
     "term": "thread chaser",
@@ -23064,8 +22944,8 @@
     "definition": "Nguyên tố titan khhh : Ti, là nguyên tố kim loại màu xám đậm, bóng láng như bạc, rất cứng, nhẹ và có khả năng chống mài mòn cao."
   },
   {
-    "term": "title block khung",
-    "definition": "Tên bản vẽ Khu vực được kẻ khung nằm ở góc phải phía dưới của một bản vẽ máy bay. Trong khung này ghi tên của bộ phận được vẽ, số quy cách, và các thông tin thiết yếu liên quan tới nó."
+    "term": "title block",
+    "definition": "Khung Tên bản vẽ Khu vực được kẻ khung nằm ở góc phải phía dưới của một bản vẽ máy bay. Trong khung này ghi tên của bộ phận được vẽ, số quy cách, và các thông tin thiết yếu liên quan tới nó."
   },
   {
     "term": "To-From indicator",
@@ -24820,8 +24700,8 @@
     "definition": "Ăng ten râu Loại ăngten một phần tư bước sóng thường được dùng trong dải cao tần và thường phân cực thẳng đứng."
   },
   {
-    "term": "Whitworth thread ren Anh Ren theo",
-    "definition": "Tiêu chuẩn của Anh (British Standard Whitworth hay B.S.W)."
+    "term": "Whitworth thread",
+    "definition": "Ren Anh Ren theo Tiêu chuẩn của Anh (British Standard Whitworth hay B.S.W)."
   },
   {
     "term": "wicking",
@@ -24904,8 +24784,8 @@
     "definition": "Biên dạng cánh máy bay Hình dạng đường bao bên ngoài của tiết diện cánh máy bay."
   },
   {
-    "term": "wing rib khung",
-    "definition": "Sườn cánh máy bay Thành phần khung kết cấu tạo cho cánh hình dạng khí động mong muốn."
+    "term": "wing rib",
+    "definition": "Khung Sườn cánh máy bay Thành phần khung kết cấu tạo cho cánh hình dạng khí động mong muốn."
   },
   {
     "term": "wing span",
