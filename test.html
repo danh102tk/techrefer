@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MODULE 10</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="dictionary-container">
+    <a href="index.html" class="back-btn">← Back to Main</a>
+    <div class="container">
+        <div class="selection-panel">
+            <label><strong>Fixed Mode</strong><input type="checkbox" id="fixedMode"></label>
+            <div class="range-inputs">
+                <label><strong>Start Question</strong>: <input type="number" id="startQuestion" min="1" value="1"></label>
+                <label><strong>End Question</strong>: <input type="number" id="endQuestion" min="1" value="8"></label>
+                <label><strong>Num Questions</strong>: <input type="number" id="numQuestions" min="1" value="8"></label>
+            </div>
+            <div class="button-row">
+                <button onclick="loadAllQuestions()">All Questions</button>
+                <button onclick="loadQuestions()">Load Questions</button>
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="questions-panel">
+                <div id="questionContent" class="centered-content"></div>
+            </div>
+            <div id="questions-sidebar"  style="display: none;">
+                <h4>Questions</h4>
+                <div id="questionIndicators"></div>
+                <div id="result"></div>
+                <button onclick="loadQuestions()">Again</button>
+                <button onclick="goHome()">Home</button>
+                <button id="submitBtn" onclick="submitQuiz()">Submit</button>
+            </div>
+        </div>
+        <button id="reviewSubmitBtn" onclick="toggleReviewSidebar()">Review & Submit</button>
+    </div>
+    <script src="test.js"></script>
+</body>
+</html>
