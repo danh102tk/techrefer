@@ -25,14 +25,24 @@ function loadQuestions() {
     const num = parseInt(document.getElementById('numQuestions').value);
     const totalQuestions = questions.length;
 
-    if (start >= end || end > totalQuestions || num < (end - start)) {
+    if (start >= end || end > totalQuestions || num > (end - start)) {
         alert('Please check the range of questions.');
         return;
     }
 
     selectedQuestions = questions.slice(start, end).slice(0, num);
-    if (!document.getElementById('fixedMode').checked) {
+
+    const fixedMode = document.getElementById('fixedMode').checked;
+
+    if (!fixedMode) {
         selectedQuestions.sort(() => Math.random() - 0.5);
+        selectedQuestions = selectedQuestions.map(q => {
+            const shuffledOptions = [...q.options].sort(() => Math.random() - 0.5);
+            return {
+                ...q,
+                options: shuffledOptions
+            };
+        });
     }
 
     const questionIndicators = document.getElementById('questionIndicators');

@@ -743,7 +743,7 @@ body {
 .container {
     width: 100%;
     max-width: 900px;
-    padding: 20px;
+    padding: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
