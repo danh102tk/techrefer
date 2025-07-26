@@ -30,7 +30,8 @@ function loadQuestions() {
         return;
     }
 
-    selectedQuestions = questions.slice(start, end).slice(0, num);
+    const sliced = questions.slice(start, end);
+    selectedQuestions = sliced.sort(() => Math.random() - 0.5).slice(0, num);
 
     const fixedMode = document.getElementById('fixedMode').checked;
 
