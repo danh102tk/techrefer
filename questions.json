@@ -1573,6 +1573,10 @@
       {
         "text": "the AOC holder.",
         "correct": true
+      },
+      {
+        "text": "the manufacturer.",
+        "correct": false
       }
     ]
   },
@@ -5913,6 +5917,10 @@
       },
       {
         "text": "The contents of ADs include the aircraft, engine, propeller, equipment or instrument type, model and serial numbers affectedC. A maintenance programme approved by the State of Registry for the use and guidance of maintenance and operational personnel",
+        "correct": false
+      },
+      {
+        "text": "A maintenance programme approved by the State of Registry for the use and guidance of maintenance and operational personnel",
         "correct": false
       }
     ]

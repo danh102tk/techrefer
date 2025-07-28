@@ -31,12 +31,12 @@ function loadQuestions() {
     }
 
     const sliced = questions.slice(start, end);
-    selectedQuestions = sliced.sort(() => Math.random() - 0.5).slice(0, num);
+    selectedQuestions = questions.slice(start, end).slice(0, num);
 
-    const fixedMode = document.getElementById('fixedMode').checked;
-
-    if (!fixedMode) {
-        selectedQuestions.sort(() => Math.random() - 0.5);
+    if (!document.getElementById('fixedMode').checked) {
+      
+        selectedQuestions.sort(() => Math.random() - 0.5);      
+       
         selectedQuestions = selectedQuestions.map(q => {
             const shuffledOptions = [...q.options].sort(() => Math.random() - 0.5);
             return {
