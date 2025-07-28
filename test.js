@@ -19,6 +19,16 @@ fetch('questions.json')
     })
     .catch(error => console.error('Error loading questions:', error));
 
+function updateNumQuestions() {
+    const start = parseInt(document.getElementById('startQuestion').value);
+    const end = parseInt(document.getElementById('endQuestion').value);
+    const total = questions.length;
+
+    if (start < end && end <= total) {
+        document.getElementById('numQuestions').value = end - start;
+    }
+}
+
 function loadQuestions() {
     const start = parseInt(document.getElementById('startQuestion').value) - 1;
     const end = parseInt(document.getElementById('endQuestion').value);
@@ -165,7 +175,8 @@ function goHome() {
     window.location.href = '/';
 }
 
+document.getElementById('startQuestion').addEventListener('change', updateNumQuestions);
+document.getElementById('endQuestion').addEventListener('change', updateNumQuestions);
 document.getElementById('fixedMode').addEventListener('change', loadQuestions);
-document.getElementById('startQuestion').addEventListener('change', loadQuestions);
-document.getElementById('endQuestion').addEventListener('change', loadQuestions);
-document.getElementById('numQuestions').addEventListener('change', loadQuestions);
+document.getElementById('numQuestions').addEventListener('change', () => {
+});

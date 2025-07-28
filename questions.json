@@ -3009,6 +3009,23 @@
     ]
   },
   {
+    "question": "By requirement of VAR Part 5, in the case of serious hazard to the aircraft, to whom the AMO holder shall report to? By requirement of VAR Part 5, in the case of serious hazard to the aircraft, to whom the AMO holder shall report to? (Level 1)",
+    "answers": [
+      {
+        "text": "CAAV.",
+        "correct": false
+      },
+      {
+        "text": "Operator.",
+        "correct": false
+      },
+      {
+        "text": "CAAV, the aircraft design organization and AOC Holder that the AMO Holder is contracted by.",
+        "correct": true
+      }
+    ] 
+  },
+  {
     "question": "The minimum distribution of the Authorised Release Certificate CAAV Form 1 is. (Level 1)",
     "answers": [
       {
