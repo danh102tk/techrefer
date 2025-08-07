@@ -79,6 +79,9 @@ function loadQuestions() {
             input.value = opt;
             input.addEventListener('change', () => {
                 updateIndicators();
+                if (document.getElementById('showAnswer').checked) {
+                    showImmediateAnswer(index);
+                }
             });
             const label = document.createElement('label');
             label.appendChild(input);
@@ -174,6 +177,46 @@ function loadAllQuestions() {
 function goHome() {
     window.location.href = '/';
 }
+
+
+function showImmediateAnswer(index) {
+    const q = selectedQuestions[index];
+    const div = document.getElementById(`question-${index + 1}`);
+    const inputs = div.querySelectorAll(`input[name="q${index + 1}"]`);
+    let selectedValue = null;
+
+    if (div.classList.contains('answered')) return;
+    div.classList.add('answered');
+
+    inputs.forEach(input => {
+        input.disabled = true;
+        if (input.checked) selectedValue = input.value;
+    });
+
+    const labels = div.getElementsByTagName('label');
+    for (let label of labels) {
+        const input = label.querySelector('input');
+        if (input.value === q.answer) {
+            label.classList.add('correct-answer');
+        }
+        if (input.checked && input.value !== q.answer) {
+            label.classList.add('wrong-answer');
+        }
+    }
+
+    const mark = document.createElement('span');
+    mark.className = selectedValue === q.answer ? 'checkmark' : 'cross';
+    mark.textContent = selectedValue === q.answer ? '✓' : 'X';
+    div.querySelector('p').appendChild(mark);
+
+    const indicator = document.getElementById(`indicator-${index + 1}`);
+    if (selectedValue === q.answer) {
+        indicator.classList.add('correct');
+    } else {
+        indicator.classList.add('incorrect');
+    }
+}
+
 
 document.getElementById('startQuestion').addEventListener('change', updateNumQuestions);
 document.getElementById('endQuestion').addEventListener('change', updateNumQuestions);
