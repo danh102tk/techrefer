@@ -96,6 +96,7 @@ function loadQuestions() {
     });
 
     updateIndicators();
+    document.getElementById('submitBtn').style.display = 'inline-block';
 }
 
 function updateIndicators() {
@@ -153,6 +154,7 @@ function submitQuiz() {
     document.getElementById('result').innerHTML = `Correct: ${correct}/${total} (${percentage}%)`;
 
     document.getElementById('questions-sidebar').style.display = 'block';
+    document.getElementById('submitBtn').style.display = 'none';
 }
 
 function scrollToQuestion(index) {
