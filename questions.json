@@ -3471,7 +3471,7 @@
     "question": "A CAAV approved capability list of the VAR Part 5 AMO gives. (Level 1)",
     "answers": [
       {
-        "text": "details of the operational restrictions placed on an aircraft with a C of",
+        "text": "details of the operational restrictions placed on an aircraft with a C of A.",
         "correct": false
       },
       {
@@ -3630,6 +3630,10 @@
       {
         "text": "Description the maintenance carried out.",
         "correct": false
+      },
+      {
+        "text": "identify areas or components subject to timed life",
+        "correct": false
       }
     ]
   },
@@ -3739,11 +3743,11 @@
     "question": "Which rating on a maintenance organization certificate that permits maintenance organization to perform maintenance, preventive maintenance, or modifications of powerplants? (Level 1)",
     "answers": [
       {
-        "text": "Powerplantratings",
+        "text": "Powerplant ratings",
         "correct": true
       },
       {
-        "text": "Propellerratings",
+        "text": "Propeller ratings",
         "correct": false
       },
       {
@@ -4714,6 +4718,10 @@
       {
         "text": "completion of training at a VAR Part 9 approved school.",
         "correct": false
+      },
+      {
+        "text": "completion of training in accordance with skilled technical staff in other technical fields.",
+        "correct": false
       }
     ]
   },
@@ -5084,6 +5092,10 @@
       {
         "text": "When flying with a special flight permit.",
         "correct": false
+      },
+      {
+        "text": "When flying for a flight test after maintenance.",
+        "correct": false
       }
     ]
   },
@@ -5133,7 +5145,7 @@
         "correct": true
       },
       {
-        "text": "The same as for the aircrafts C of",
+        "text": "The same as for the aircrafts C of A.",
         "correct": false
       }
     ]
@@ -5163,7 +5175,7 @@
         "correct": true
       },
       {
-        "text": "to extend the C of",
+        "text": "to extend the C of A.",
         "correct": false
       },
       {
@@ -5282,7 +5294,7 @@
         "correct": false
       },
       {
-        "text": "Standard, Special and Export C of",
+        "text": "Standard, Special and Export C of A.",
         "correct": true
       },
       {
@@ -5380,7 +5392,7 @@
     "question": "To relocate the aircraft to the maintenance base to carry out the maintenance in order to recover the airworthiness of the aircraft. this flight should be carried out under. (Level 2)",
     "answers": [
       {
-        "text": "a special C of",
+        "text": "a special C of A.",
         "correct": false
       },
       {
@@ -5785,8 +5797,12 @@
     ]
   },
   {
-    "question": "Airworthiness Directives prescribes? (Level 1)A. Mandatory corrective actions to be taken",
+    "question": "Airworthiness Directives prescribes? (Level 1)",
     "answers": [
+      {
+        "text": "Mandatory corrective actions to be taken",
+        "correct": false
+      },
       {
         "text": "The conditions or limitations under which the aeronautical products may continue to be operated",
         "correct": false
@@ -5832,8 +5848,12 @@
     ]
   },
   {
-    "question": "Continued safe flight and landing of the aeroplane shall not be prevented by? (Level 1)A. Any single failure not shown to be extremely improbable in the control system",
+    "question": "Continued safe flight and landing of the aeroplane shall not be prevented by? (Level 1)",
     "answers": [
+      {
+        "text": "Any single failure not shown to be extremely improbable in the control system",
+        "correct": false
+      },
       {
         "text": "Any event that results in a jam of a flight control in any normally encountered position of the flight controls",
         "correct": false
@@ -5937,7 +5957,7 @@
         "correct": true
       },
       {
-        "text": "The contents of ADs include the aircraft, engine, propeller, equipment or instrument type, model and serial numbers affectedC. A maintenance programme approved by the State of Registry for the use and guidance of maintenance and operational personnel",
+        "text": "The contents of ADs include the aircraft, engine, propeller, equipment or instrument type, model and serial numbers affected",
         "correct": false
       },
       {
@@ -6158,9 +6178,13 @@
         "correct": false
       },
       {
-        "text": "Aviation Repair SpecialistC. Aircraft Repair Specialist",
+        "text": "Aviation Repair Specialist",
         "correct": true
-      }
+      },
+      {
+        "text": "Aircraft Repair Specialist",
+        "correct": false
+      },
     ]
   },
   {
@@ -6371,11 +6395,15 @@
     "question": "Which type of next – generation aircraft that makes VNA become the first airline in the world to successfully operate at the same time? (Level 1)",
     "answers": [
       {
-        "text": "Boeing 787-9 Dreamliner and Airbus A350-900 XW#B.",
+        "text": "Boeing 787-9 Dreamliner and Airbus A350-900 XWB.",
         "correct": true
       },
       {
-        "text": "Boeing 787-9 Dreamliner and Airbus A",
+        "text": "Boeing 787-9 Dreamliner and Airbus A330.",
+        "correct": false
+      },
+      {
+        "text": "Boeing 787-10 Dreamliner and Airbus A350.",
         "correct": false
       }
     ]
@@ -6456,7 +6484,7 @@
         "correct": false
       },
       {
-        "text": "A CAAV certified true copy of the AOC; a copy of the authorizations, conditions and limitations for that fleet of aircraft; and a certified true copy of an aircraft display AO#C.",
+        "text": "A CAAV certified true copy of the AOC; a copy of the authorizations, conditions and limitations for that fleet of aircraft; and a certified true copy of an aircraft display AOC.",
         "correct": true
       },
       {
