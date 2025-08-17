@@ -7840,8 +7840,12 @@
     "question": "What is the type certificate? (Level 1)",
     "answers": [
       {
-        "text": "A type certificate is a type of certification document issued by an aviation regulation agency of a country for an Aircraft, Propeller and Engine.B. A type certificate is a type of certification document issued by aircraft owner (operator).",
+        "text": "A type certificate is a type of certification document issued by an aviation regulation agency of a country for an Aircraft, Propeller and Engine.",
         "correct": true
+      },
+      {
+        "text": "A type certificate is a type of certification document issued by aircraft owner (operator).",
+        "correct": false
       },
       {
         "text": "A type certificate is a type of certification not mandatory for Aircraft, Propeller and Engine.",
